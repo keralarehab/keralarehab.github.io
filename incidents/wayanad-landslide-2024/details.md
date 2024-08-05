@@ -73,3 +73,9 @@ A severe landslide occurred in Wayanad due to heavy monsoon rains, causing signi
 - Offered 15 acres land
 - [View Details](./offers/fruits_valley_farmers.md)
 - [View Progress](./progress/fruits_valley_farmers.md)
+
+### Kanthapuram A P Abubacker Musliyar
+
+- Offered 1 House
+- [View Details](./offers/kanthapuram_a_p_abubacker_musliyar.md)
+- [View Progress](./progress/kanthapuram_a_p_abubacker_musliyar.md)
