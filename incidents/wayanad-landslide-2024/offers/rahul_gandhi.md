@@ -14,7 +14,7 @@ State opposition leader V.D. Satheesan has informed that Lok Sabha opposition le
 
 ## Progress
 
-[View Progress](../progress/dyfi.md)
+[View Progress](../progress/rahul_gandhi.md)
 
 ## References
 
