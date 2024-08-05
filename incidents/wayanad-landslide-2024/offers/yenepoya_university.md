@@ -1,4 +1,4 @@
-# Shobha Group
+# Yenepoya University
 
 ## Promise
 
