@@ -109,3 +109,9 @@ A severe landslide occurred in Wayanad due to heavy monsoon rains, causing signi
 - Offered 1 or More Houses
 - [View Details](./offers/bmc.md)
 - [View Progress](./progress/bmc.md)
+
+### Samskruthi Bahrain
+
+- Offered 1 Home
+- [View Details](./offers/samskruthi_bahrain.md)
+- [View Progress](./progress/samskruthi_bahrain.md)
