@@ -85,3 +85,9 @@ A severe landslide occurred in Wayanad due to heavy monsoon rains, causing signi
 - Offered Houses for 10 Families
 - [View Details](./offers/kottakkal_arya_vaidya_sala.md)
 - [View Progress](./progress/kottakkal_arya_vaidya_sala.md)
+
+### 9744887373
+
+- Offered 4 cents for 4 people
+- [View Details](./offers/9744887373.md)
+- [View Progress](./progress/9744887373.md)
