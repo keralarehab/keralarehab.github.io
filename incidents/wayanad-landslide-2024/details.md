@@ -103,3 +103,9 @@ A severe landslide occurred in Wayanad due to heavy monsoon rains, causing signi
 - Offered 150 houses
 - [View Details](./offers/national_service_scheme.md)
 - [View Progress](./progress/national_service_scheme.md)
+
+### BMC
+
+- Offered 1 or More Houses
+- [View Details](./offers/bmc.md)
+- [View Progress](./progress/bmc.md)
