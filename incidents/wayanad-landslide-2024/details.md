@@ -43,3 +43,9 @@ A severe landslide occurred in Wayanad due to heavy monsoon rains, causing signi
 - Offered Free Education For 100 Students
 - [View Details](./offers/yenepoya_university.md)
 - [View Progress](./progress/yenepoya_university.md)
+
+### DYFI
+
+- Offered Houses for 25 Families
+- [View Details](./offers/dyfi.md)
+- [View Progress](./progress/dyfi.md)
