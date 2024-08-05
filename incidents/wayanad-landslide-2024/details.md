@@ -61,3 +61,9 @@ A severe landslide occurred in Wayanad due to heavy monsoon rains, causing signi
 - Offered 3 Crores
 - [View Details](./offers/the_business_club.md)
 - [View Progress](./progress/the_business_club.md)
+
+### Kerala Police Housing Society
+
+- Offered Houses for 3 Collegues
+- [View Details](./offers/kerala_police_housing_society.md)
+- [View Progress](./progress/kerala_police_housing_society.md)
