@@ -49,3 +49,9 @@ A severe landslide occurred in Wayanad due to heavy monsoon rains, causing signi
 - Offered Houses for 25 Families
 - [View Details](./offers/dyfi.md)
 - [View Progress](./progress/dyfi.md)
+
+### AIYF
+
+- Offered Houses for 10 Families
+- [View Details](./offers/aiyf.md)
+- [View Progress](./progress/aiyf.md)
