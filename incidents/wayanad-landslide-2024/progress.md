@@ -1,15 +1,14 @@
-# Progress Update
+# Progress Updates
 
 ## Date
 
-August 5, 2024
+Monday August 5, 2024
 
 ## Update
 
-The initial relief efforts have started. 
+The initial relief efforts have started.
 
 ## Donation Status
-
 
 ## Media
 

@@ -20,5 +20,27 @@
                 "progress": "./progress/shobha_group.md"
             }
         ]
+    },
+    {
+        "promisor" : "Lions Club International",
+        "promise" : "Offered 5 crore rupees",
+        "date_of_promise": "04/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/lions_club_international.md",
+                "progress": "./progress/lions_club_international.md"
+            }
+        ]
+    },
+    {
+        "promisor" : "Karnataka Government - Siddaramaiah",
+        "promise" : "Offered 100 Jouses",
+        "date_of_promise": "03/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/karnataka_government.md",
+                "progress": "./progress/karnataka_government.md"
+            }
+        ]
     }
 ]
