@@ -97,3 +97,9 @@ A severe landslide occurred in Wayanad due to heavy monsoon rains, causing signi
 - Offered 100 houses
 - [View Details](./offers/rahul_gandhi.md)
 - [View Progress](./progress/rahul_gandhi.md)
+
+### National Service Scheme
+
+- Offered 150 houses
+- [View Details](./offers/national_service_scheme.md)
+- [View Progress](./progress/national_service_scheme.md)
