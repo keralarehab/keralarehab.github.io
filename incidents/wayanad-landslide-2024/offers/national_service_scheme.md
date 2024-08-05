@@ -14,7 +14,7 @@ The National Service Scheme (NSS) will provide 150 houses or an equivalent amoun
 
 ## Progress
 
-[View Progress](../progress/national_service_scheme.md.md)
+[View Progress](../progress/national_service_scheme.md)
 
 ## References
 
