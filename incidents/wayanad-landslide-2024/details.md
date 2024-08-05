@@ -37,3 +37,9 @@ A severe landslide occurred in Wayanad due to heavy monsoon rains, causing signi
 - Offered 100 Houses
 - [View Details](./offers/karnataka_government.md)
 - [View Progress](./progress/karnataka_government.md)
+
+### Yenepoya University
+
+- Offered Free Education For 100 Students
+- [View Details](./offers/yenepoya_university.md)
+- [View Progress](./progress/yenepoya_university.md)
