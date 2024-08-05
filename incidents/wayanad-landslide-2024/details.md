@@ -14,28 +14,14 @@ A severe landslide occurred in Wayanad due to heavy monsoon rains, causing signi
 
 ## Donation Offers
 
-### ABC Corporation
-- Type: Financial Aid
-- Estimated Value: ₹5,00,000
+### Prthidhwani
 
-#### Progress
+- Offered 2 Houses
+- [View Details](./incidents/wayanad-landslide-2024/offers/prathidhwani.md)
+- [View Progress](./incidents/wayanad-landslide-2024/progress/prathidhwani.md)
 
-| Date       | Update                                                                                       | Status                               |
-|------------|-----------------------------------------------------------------------------------------------|--------------------------------------|
-| Aug 5, 2024 | Financial aid received and is being used for temporary shelters.                             | Funds allocated and in use           |
-| Aug 10, 2024 | Temporary shelters established for 50 families.                                             | Ongoing                              |
+### Shobha Group
 
-### XYZ Organization
-- Type: Medical Supplies
-- Estimated Value: ₹2,00,000
-
-#### Progress
-
-| Date       | Update                                                                                       | Status                               |
-|------------|-----------------------------------------------------------------------------------------------|--------------------------------------|
-| Aug 5, 2024 | Medical supplies received and are being distributed to the affected areas.                   | Supplies received and distributed    |
-| Aug 8, 2024 | Additional medical personnel sent to the affected areas to assist with the distribution.    | Ongoing                              |
-
-## Contact Information
-
-- Relief Coordinator: [Contact Name, Email, Phone Number]
+- Offered 50 houses
+- [View Details](./incidents/wayanad-landslide-2024/offers/shobha_group.md)
+- [View Progress](./incidents/wayanad-landslide-2024/progress/shobha_group.md)
