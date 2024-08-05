@@ -55,3 +55,9 @@ A severe landslide occurred in Wayanad due to heavy monsoon rains, causing signi
 - Offered Houses for 10 Families
 - [View Details](./offers/aiyf.md)
 - [View Progress](./progress/aiyf.md)
+
+### The Business Club
+
+- Offered 3 Crores
+- [View Details](./offers/the_business_club.md)
+- [View Progress](./progress/the_business_club.md)
