@@ -8,6 +8,8 @@ Offered 2 Houses
 
 04/08/2024
 
+## Details
+
 ## Progress
 
 [View Progress](../progress/prathidhwani.md)
