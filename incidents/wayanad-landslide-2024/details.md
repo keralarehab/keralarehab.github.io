@@ -14,14 +14,14 @@ A severe landslide occurred in Wayanad due to heavy monsoon rains, causing signi
 
 ## Donation Offers
 
-### Prthidhwani
+### Prathidhwani
 
 - Offered 2 Houses
-- [View Details](./incidents/wayanad-landslide-2024/offers/prathidhwani.md)
-- [View Progress](./incidents/wayanad-landslide-2024/progress/prathidhwani.md)
+- [View Details](./offers/prathidhwani.md)
+- [View Progress](./progress/prathidhwani.md)
 
 ### Shobha Group
 
 - Offered 50 houses
-- [View Details](./incidents/wayanad-landslide-2024/offers/shobha_group.md)
-- [View Progress](./incidents/wayanad-landslide-2024/progress/shobha_group.md)
+- [View Details](./offers/shobha_group.md)
+- [View Progress](./progress/shobha_group.md)
