@@ -3,12 +3,18 @@
         "promisor" : "Prathidhwani",
         "promise" : "Offered 2 Houses",
         "date_of_promise": "04/08/2024",
-        "details": "./details.md",
         "offers": [
             {
                 "offer": "./offers/prathidhwani.md",
                 "progress": "./progress/prathidhwani.md"
-            },
+            }
+        ]
+    },
+    {
+        "promisor" : "Shobha Group",
+        "promise" : "Offered 50 Houses",
+        "date_of_promise": "04/08/2024",
+        "offers": [
             {
                 "offer": "./offers/shobha_group.md",
                 "progress": "./progress/shobha_group.md"
