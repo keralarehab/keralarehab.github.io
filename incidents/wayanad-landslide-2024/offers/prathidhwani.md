@@ -1,11 +1,16 @@
-# Prthidhwani 
+# Prathidhwani
 
 ## Promise
 
 Offered 2 Houses
 
 ## Date of Promise
+
 04/08/2024
+
+## Progress
+
+[View Progress](../progress/prathidhwani.md)
 
 ## References
 
