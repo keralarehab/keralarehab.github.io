@@ -67,3 +67,9 @@ A severe landslide occurred in Wayanad due to heavy monsoon rains, causing signi
 - Offered Houses for 3 Collegues
 - [View Details](./offers/kerala_police_housing_society.md)
 - [View Progress](./progress/kerala_police_housing_society.md)
+
+### Fruits Valley Farmers
+
+- Offered 15 acres land
+- [View Details](./offers/fruits_valley_farmers.md)
+- [View Progress](./progress/fruits_valley_farmers.md)
