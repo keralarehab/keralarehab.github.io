@@ -115,3 +115,9 @@ A severe landslide occurred in Wayanad due to heavy monsoon rains, causing signi
 - Offered 1 Home
 - [View Details](./offers/samskruthi_bahrain.md)
 - [View Progress](./progress/samskruthi_bahrain.md)
+
+### GM Banathwale Center
+
+- Offered 20 Houses
+- [View Details](./offers/gm_banathwale_center.md)
+- [View Progress](./progress/gm_banathwale_center.md)
