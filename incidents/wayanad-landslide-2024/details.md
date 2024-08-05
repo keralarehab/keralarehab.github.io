@@ -79,3 +79,9 @@ A severe landslide occurred in Wayanad due to heavy monsoon rains, causing signi
 - Offered 1 House
 - [View Details](./offers/kanthapuram_a_p_abubacker_musliyar.md)
 - [View Progress](./progress/kanthapuram_a_p_abubacker_musliyar.md)
+
+### Kottakkal Arya Vaidya Sala
+
+- Offered Houses for 10 Families
+- [View Details](./offers/kottakkal_arya_vaidya_sala.md)
+- [View Progress](./progress/kottakkal_arya_vaidya_sala.md)
