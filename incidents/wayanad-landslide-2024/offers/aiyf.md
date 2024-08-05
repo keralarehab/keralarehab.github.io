@@ -18,4 +18,4 @@ AIYF has announced that they will build houses for 10 families who lost their ho
 
 ## References
 
-- https://newspaper.mathrubhumi.com/ernakulam
+- https://www.mediaoneonline.com/kerala/aiyf-will-build-houses-for-10-families-who-have-lost-their-homes-in-mundakkai-262364
