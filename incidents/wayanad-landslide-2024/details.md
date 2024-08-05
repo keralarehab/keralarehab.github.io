@@ -91,3 +91,9 @@ A severe landslide occurred in Wayanad due to heavy monsoon rains, causing signi
 - Offered 4 cents for 4 people
 - [View Details](./offers/9744887373.md)
 - [View Progress](./progress/9744887373.md)
+
+### Rahul Gandhi
+
+- Offered 100 houses
+- [View Details](./offers/rahul_gandhi.md)
+- [View Progress](./progress/rahul_gandhi.md)
