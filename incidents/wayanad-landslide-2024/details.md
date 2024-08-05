@@ -25,3 +25,15 @@ A severe landslide occurred in Wayanad due to heavy monsoon rains, causing signi
 - Offered 50 houses
 - [View Details](./offers/shobha_group.md)
 - [View Progress](./progress/shobha_group.md)
+
+### Lions Club International
+
+- Offered 5 crore rupees
+- [View Details](./offers/lions_club_international.md)
+- [View Progress](./progress/lions_club_international.md)
+
+### Karnataka Government - Siddaramaiah
+
+- Offered 100 Houses
+- [View Details](./offers/karnataka_government.md)
+- [View Progress](./progress/karnataka_government.md)
