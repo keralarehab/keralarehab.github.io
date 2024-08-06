@@ -22,7 +22,10 @@ async function fetchData() {
     const jsonData = await response.json();
     return jsonData;
 }
-
+function showDetails(donation) {
+    // Navigate to details.html with the id as a URL parameter
+    window.location.href = `donationdetail.html?value=${donation}`;
+}
 // function createTableHeader(headerData) {
 //     const tableHeader = document.getElementById('table-header');
 //     tableHeader.innerHTML = '';
@@ -70,10 +73,11 @@ function createTableBody(data) {
 
         const tdDetails = document.createElement('td');
         if (item.offers && item.offers.length > 0) {
-            const link = document.createElement('a');
-            link.href = fileUrl+item.offers[0].offer;
+            const link = document.createElement('button');
+            link.onclick =() => {
+                showDetails(item.offers[0].offer);
+            };
             link.textContent = 'Details';
-            link.target = '_blank';
             tdDetails.appendChild(link);
         } else {
             tdDetails.textContent = 'NA';
