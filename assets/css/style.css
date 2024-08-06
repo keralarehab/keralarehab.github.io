@@ -35,3 +35,34 @@ p {
     cursor: pointer;
     border-radius: 4px;
 }
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.flex-grow-1 {
+    flex-grow: 1;
+}
+
+footer {
+    background-color: #343a40; /* bg-dark */
+    color: #fff; /* text-white */
+    text-align: center; /* text-center */
+    padding: 1rem 0; /* py-3 */
+}
+.content
+{
+    padding: 1rem;
+}
+.content h1 {
+    color: #333;
+}
+.content p {
+    margin: 10px 0;
+}
+.content a {
+    color: blue;
+    text-decoration: underline;
+}
+
