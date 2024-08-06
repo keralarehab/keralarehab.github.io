@@ -8,7 +8,8 @@
                 "offer": "./offers/prathidhwani.md",
                 "progress": "./progress/prathidhwani.md"
             }
-        ]
+        ],
+        "slug" : "prathidhwani"
     },
     {
         "promisor" : "Shobha Group",
@@ -19,7 +20,8 @@
                 "offer": "./offers/shobha_group.md",
                 "progress": "./progress/shobha_group.md"
             }
-        ]
+        ],
+        "slug" : "shobha_group"
     },
     {
         "promisor" : "Lions Club International",
@@ -30,7 +32,8 @@
                 "offer": "./offers/lions_club_international.md",
                 "progress": "./progress/lions_club_international.md"
             }
-        ]
+        ],
+        "slug" : "lions_club_international"
     },
     {
         "promisor" : "Karnataka Government - Siddaramaiah",
@@ -41,7 +44,8 @@
                 "offer": "./offers/karnataka_government.md",
                 "progress": "./progress/karnataka_government.md"
             }
-        ]
+        ],
+        "slug": "karnataka_government"
     },
     {
         "promisor": "Yenepoya University",
@@ -52,7 +56,8 @@
                 "offer": "./offers/yenepoya_university.md",
                 "progress": "./progress/yenepoya_university.md"
             }
-        ]
+        ],
+        "slug" : "yenepoya_university"
     },
     {
         "promisor": "DYFI",
@@ -63,7 +68,8 @@
                 "offer": "./offers/dyfi.md",
                 "progress": "./progress/dyfi.md"
             }
-        ]
+        ],
+        "slug": "dyfi"
     },
     {
         "promisor": "AIYF",
@@ -74,7 +80,8 @@
                 "offer": "./offers/aiyf.md",
                 "progress": "./progress/aiyf.md"
             }
-        ]
+        ],
+        "slug": "aiyf"
     },
     {
         "promisor": "The Business Club",
@@ -85,7 +92,8 @@
                 "offer": "./offers/the_business_club.md",
                 "progress": "./progress/the_business_club.md"
             }
-        ]
+        ],
+        "slug": "the_business_club"
     },
     {
         "promisor": "Kerala Police Housing Society",
@@ -96,7 +104,8 @@
                 "offer": "./offers/kerala_police_housing_society.md",
                 "progress": "./progress/kerala_police_housing_society.md"
             }
-        ]
+        ],
+        "slug": "kerala_police_housing_society"
     },
     {
         "promisor": "Fruits Valley Farmers",
@@ -107,7 +116,8 @@
                 "offer": "./offers/fruits_valley_farmers.md",
                 "progress": "./progress/fruits_valley_farmers.md"
             }
-        ]
+        ],
+        "slug": "fruits_valley_farmers"
     },
     {
         "promisor": "Kanthapuram A P Abubacker Musliyar",
@@ -118,7 +128,8 @@
                 "offer": "./offers/kanthapuram_a_p_abubacker_musliyar.md",
                 "progress": "./progress/kanthapuram_a_p_abubacker_musliyar.md"
             }
-        ]
+        ],
+        "slug": "kanthapuram_a_p_abubacker_musliyar"
     },
     {
         "promisor": "Kottakkal Arya Vaidya Sala",
@@ -129,7 +140,8 @@
                 "offer": "./offers/kottakkal_arya_vaidya_sala.md",
                 "progress": "./progress/kottakkal_arya_vaidya_sala.md"
             }
-        ]
+        ],
+        "slug": "kottakkal_arya_vaidya_sala"
     },
     {
         "promisor": "9744887373",
@@ -140,7 +152,8 @@
                 "offer": "./offers/9744887373.md",
                 "progress": "./progress/9744887373.md"
             }
-        ]
+        ],
+        "slug": "9744887373"
     },
     {
         "promisor": "Rahul Gandhi",
@@ -151,7 +164,8 @@
                 "offer": "./offers/rahul_gandhi.md",
                 "progress": "./progress/rahul_gandhi.md"
             }
-        ]
+        ],
+        "slug": "rahul_gandhi"
     },
     {
         "promisor": "National Service Scheme",
@@ -162,7 +176,8 @@
                 "offer": "./offers/national_service_scheme.md",
                 "progress": "./progress/national_service_scheme.md"
             }
-        ]
+        ],
+        "slug": "national_service_scheme"
     },
     {
         "promisor": "BMC",
@@ -173,7 +188,8 @@
                 "offer": "./offers/bmc.md",
                 "progress": "./progress/bmc.md"
             }
-        ]
+        ],
+        "slug": "bmc"
     },
     {
         "promisor": "Samskruthi Bahrain",
@@ -184,7 +200,8 @@
                 "offer": "./offers/samskruthi_bahrain.md",
                 "progress": "./progress/samskruthi_bahrain.md"
             }
-        ]
+        ],
+        "slug": "samskruthi_bahrain"
     },
     {
         "promisor": "GM Banathwale Center",
@@ -195,7 +212,8 @@
                 "offer": "./offers/gm_banathwale_center.md",
                 "progress": "./progress/gm_banathwale_center.md"
             }
-        ]
+        ],
+        "slug": "gm_banathwale_center"
     }
     ,
     {
@@ -207,7 +225,8 @@
                 "offer": "./offers/abc_cargo.md",
                 "progress": "./progress/abc_cargo.md"
             }
-        ]
+        ],
+        "slug": "abc_cargo"
     }
 ]
 
