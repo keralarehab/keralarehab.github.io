@@ -34,7 +34,7 @@
     },
     {
         "promisor" : "Karnataka Government - Siddaramaiah",
-        "promise" : "Offered 100 Jouses",
+        "promise" : "Offered 100 Houses",
         "date_of_promise": "03/08/2024",
         "offers": [
             {
@@ -42,5 +42,172 @@
                 "progress": "./progress/karnataka_government.md"
             }
         ]
+    },
+    {
+        "promisor": "Yenepoya University",
+        "promise": "Free Education for 100 Students",
+        "date_of_promise": null,
+        "offers": [
+            {
+                "offer": "./offers/yenepoya_university.md",
+                "progress": "./progress/yenepoya_university.md"
+            }
+        ]
+    },
+    {
+        "promisor": "DYFI",
+        "promise": "Offered Houses for 25 Families",
+        "date_of_promise": "03/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/dyfi.md",
+                "progress": "./progress/dyfi.md"
+            }
+        ]
+    },
+    {
+        "promisor": "AIYF",
+        "promise": "Offered Houses for 10 families",
+        "date_of_promise": "01/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/aiyf.md",
+                "progress": "./progress/aiyf.md"
+            }
+        ]
+    },
+    {
+        "promisor": "The Business Club",
+        "promise": "3 Crores",
+        "date_of_promise": "02/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/the_business_club.md",
+                "progress": "./progress/the_business_club.md"
+            }
+        ]
+    },
+    {
+        "promisor": "Kerala Police Housing Society",
+        "promise": "Offered Houses for 3 collegues",
+        "date_of_promise": "02/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/kerala_police_housing_society.md",
+                "progress": "./progress/kerala_police_housing_society.md"
+            }
+        ]
+    },
+    {
+        "promisor": "Fruits Valley Farmers",
+        "promise": "Offered 15 acres Land",
+        "date_of_promise": "03/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/fruits_valley_farmers.md",
+                "progress": "./progress/fruits_valley_farmers.md"
+            }
+        ]
+    },
+    {
+        "promisor": "Kanthapuram A P Abubacker Musliyar",
+        "promise": "Offered 1 House",
+        "date_of_promise": "03/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/kanthapuram_a_p_abubacker_musliyar.md",
+                "progress": "./progress/kanthapuram_a_p_abubacker_musliyar.md"
+            }
+        ]
+    },
+    {
+        "promisor": "Kottakkal Arya Vaidya Sala",
+        "promise": "Offered 10 Houses",
+        "date_of_promise": "03/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/kottakkal_arya_vaidya_sala.md",
+                "progress": "./progress/kottakkal_arya_vaidya_sala.md"
+            }
+        ]
+    },
+    {
+        "promisor": "9744887373",
+        "promise": "Offered 4 cent for 4 people",
+        "date_of_promise": "04/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/9744887373.md",
+                "progress": "./progress/9744887373.md"
+            }
+        ]
+    },
+    {
+        "promisor": "Rahul Gandhi",
+        "promise": "Offered 100 Houses",
+        "date_of_promise": "03/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/rahul_gandhi.md",
+                "progress": "./progress/rahul_gandhi.md"
+            }
+        ]
+    },
+    {
+        "promisor": "National Service Scheme",
+        "promise": "Offered 150 Houses",
+        "date_of_promise": "03/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/national_service_scheme.md",
+                "progress": "./progress/national_service_scheme.md"
+            }
+        ]
+    },
+    {
+        "promisor": "BMC",
+        "promise": "Offered 1 or More Houses",
+        "date_of_promise": "04/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/bmc.md",
+                "progress": "./progress/bmc.md"
+            }
+        ]
+    },
+    {
+        "promisor": "Samskruthi Bahrain",
+        "promise": "Offered 1 Home",
+        "date_of_promise": "05/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/samskruthi_bahrain.md",
+                "progress": "./progress/samskruthi_bahrain.md"
+            }
+        ]
+    },
+    {
+        "promisor": "GM Banathwale Center",
+        "promise": "Offered 20 Houses",
+        "date_of_promise": "04/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/gm_banathwale_center.md",
+                "progress": "./progress/gm_banathwale_center.md"
+            }
+        ]
+    }
+    ,
+    {
+        "promisor": "ABC Cargo",
+        "promise": "Employment to 100 people and free transportation of goods",
+        "date_of_promise": "06/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/abc_cargo.md",
+                "progress": "./progress/abc_cargo.md"
+            }
+        ]
     }
 ]
+
