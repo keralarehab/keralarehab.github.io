@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala Rehab Website</title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/v/bs4/dt-2.1.3/datatables.min.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
 </head>
 <body class="d-flex flex-column min-vh-100">
@@ -38,26 +39,30 @@
     <header class="bg-primary text-white text-center py-3">
         <h3>Wayanad Landslide 2024</h3>
     </header>
-    <!-- Main Content -->
-    <div class="container my-5">
-        <div class="table-responsive">
-            <h4>Donation Offers curated till date are as follows:</h4>
-            <table id="data-table" class="table table-striped table-bordered">
-                <thead>
-                    <tr id="table-header">
-                        <th>Sl No</th>
-                        <th>Promise</th>
-                        <th>Promiser</th>
-                        <th>Date of Promise</th>
-                        <th>Media</th>
-                        <th>Details</th>
-                        <th>Progress</th>
-                    </tr>
-                </thead>
-                <tbody id="table-body"></tbody>
-            </table>
-        </div>
-        <span class="badge text-bg-secondary">You can also contribute by using <a href='submissions.html'>submission page</a></span>
+    <!-- Main Content -->     
+    <div class="container-fluid my-5">
+        <div class="row justify-content-center">
+            <div class="col-md-10">
+                <h4 class="mb-3">Donation Offers curated till date are as follows:</h4>
+                <div class="table-responsive p-1">
+                    <table id="data-table" class="table table-striped table-bordered">
+                        <thead>
+                            <tr id="table-header">
+                                <th>Sl No</th>
+                                <th>Promise</th>
+                                <th>Promiser</th>
+                                <th>Date of Promise</th>
+                                <th>Media</th>
+                                <th>Details</th>
+                                <th>Progress</th>
+                            </tr>
+                        </thead>
+                        <tbody id="table-body"></tbody>
+                    </table>
+                </div>
+                <span class="badge text-bg-secondary">You can also contribute by using <a href='submissions.html'>submission page</a></span>
+            </div>
+        </div>        
     </div>
     
     <!-- Footer -->
@@ -68,6 +73,7 @@
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://cdn.datatables.net/v/bs4/dt-2.1.3/datatables.min.js"></script>
 
     <!-- Modal -->
     <div class="modal fade" id="imageModal" tabindex="-1" aria-labelledby="imageModalLabel" aria-hidden="true">
@@ -90,6 +96,6 @@
     </div>
 
     <!-- Custom Script -->
-    <script src="assets/js/script.js"></script>
+    <script src="assets/js/script.js"></script>    
 </body>
 </html>

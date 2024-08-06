@@ -78,6 +78,7 @@ function createTableBody(data) {
                 showDetails(item.offers[0].offer);
             };
             link.textContent = 'Details';
+            link.className = 'btn btn-outline-primary';
             tdDetails.appendChild(link);
         } else {
             tdDetails.textContent = 'NA';
@@ -91,6 +92,7 @@ function createTableBody(data) {
                 showDetails(item.offers[0].progress);
             };
             link.textContent = 'Progress';
+            link.className = 'btn btn-outline-primary';
             tdProgress.appendChild(link);
         } else {
             tdProgress.textContent = 'NA';
@@ -119,6 +121,7 @@ async function loadTable() {
         const data = await fetchData();
         if (data && data.length > 0) {
             createTableBody(data);
+            $('#data-table').DataTable(); // Added data table for pagination
         }
     } catch (error) {
         console.error('Error fetching data:', error);
