@@ -121,3 +121,9 @@ A severe landslide occurred in Wayanad due to heavy monsoon rains, causing signi
 - Offered 20 Houses
 - [View Details](./offers/gm_banathwale_center.md)
 - [View Progress](./progress/gm_banathwale_center.md)
+
+### ABC Cargo 
+
+- Employment to 100 people and free transportation of goods
+- [View Details](./offers/abc_cargo.md)
+- [View Progress](./progress/abc_cargo.md)
