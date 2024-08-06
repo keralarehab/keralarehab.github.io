@@ -6,7 +6,31 @@ async function fetchMarkdown(url) {
         }
         const markdown = await response.text();
         const formattedHTML = marked.parse(markdown);
-        document.getElementById('content').innerHTML = formattedHTML;
+        const contentElement = document.getElementById('content');
+        contentElement.innerHTML = formattedHTML;
+        const h1Elements = contentElement.querySelectorAll('h1');
+        h1Elements.forEach(h1 => {
+            const h3 = document.createElement('h3');
+            h3.innerHTML = h1.innerHTML;
+            h1.replaceWith(h3);
+        });
+        const h2Elements = contentElement.querySelectorAll('h2');
+        h2Elements.forEach(h2 => {
+            const h4 = document.createElement('h4');
+            h4.innerHTML = h2.innerHTML;
+            h2.replaceWith(h4);
+        });
+        const tables = contentElement.querySelectorAll('table');
+        tables.forEach(table => {
+            table.setAttribute('border', '1');
+        });
+        const anchors = contentElement.querySelectorAll('a');
+        anchors.forEach(anchor => {
+            if (anchor.textContent.trim() === 'View Progress') {
+                const existingValue = anchor.getAttribute('href').slice(1);
+                anchor.setAttribute('href', `donationdetail.html?value=${existingValue}`);
+            }
+        })
     } catch (error) {
         console.error('Error fetching markdown:', error);
         document.getElementById('content').innerText = 'Error loading content.';

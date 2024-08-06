@@ -86,10 +86,11 @@ function createTableBody(data) {
 
         const tdProgress = document.createElement('td');
         if (item.offers && item.offers.length > 0) {
-            const link = document.createElement('a');
-            link.href = fileUrl+item.offers[0].progress;
+            const link = document.createElement('button');
+            link.onclick =() => {
+                showDetails(item.offers[0].progress);
+            };
             link.textContent = 'Progress';
-            link.target = '_blank';
             tdProgress.appendChild(link);
         } else {
             tdProgress.textContent = 'NA';
