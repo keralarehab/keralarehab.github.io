@@ -238,7 +238,8 @@
                 "offer": "./offers/kseb.md",
                 "progress": "./progress/kseb.md"
             }
-        ]
+        ],
+        "slug": "kseb"
     }
 ]
 
