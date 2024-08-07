@@ -127,3 +127,10 @@ A severe landslide occurred in Wayanad due to heavy monsoon rains, causing signi
 - Employment to 100 people and free transportation of goods
 - [View Details](./offers/abc_cargo.md)
 - [View Progress](./progress/abc_cargo.md)
+
+
+### KSEB 
+
+- Free electricity for 6 months and waiver of outstanding dues
+- [View Details](./offers/kseb.md)
+- [View Progress](./progress/kseb.md)
