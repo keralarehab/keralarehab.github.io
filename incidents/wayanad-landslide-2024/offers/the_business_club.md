@@ -2,7 +2,7 @@
 
 ## Promise
 
-Offered 3 Crores
+Offered 40 houses
 
 ## Date of Promise
 
@@ -10,12 +10,13 @@ Offered 3 Crores
 
 ## Details
 
-The Business Club, an association of industrialists based in Kozhikode, will build and provide 50 houses. The Chief Minister explained that it might have been an exaggeration.
+The Business Club, an association of industrialists based in Kozhikode, will build and provide 40 houses.
 
-## Progress
+## Media
 
-[View Progress](../progress/the_business_club.md)
+![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/4kXyOE1Ehog/0.jpg)
 
 ## References
 
 - https://www.youtube.com/watch?v=4kXyOE1Ehog
+- https://www.thehindu.com/news/national/kerala/business-club-to-build-40-houses-for-wayanad-landslide-victims/article68477822.ece
