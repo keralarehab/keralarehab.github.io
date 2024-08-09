@@ -12,8 +12,10 @@
 
 Karnataka Chief Minister Siddaramaiah has promised to build 100 houses to the people in Mundakai-Wayanad.
 
-## Progress
+## Media
+
+![Karnataka Govt](https://web.archive.org/web/20240809072136if_/https://qph.cf2.quoracdn.net/main-qimg-226b394ff1897ad95d364e9442c59efd)
 
 ## References
 
-- [](https://marunadanmalayalee.com/recommended/mundakai-8/)[https://marunadanmalayalee.com/recommended/mundakai-8/](https://marunadanmalayalee.com/recommended/mundakai-8/)
+- https://marunadanmalayalee.com/recommended/mundakai-8/
