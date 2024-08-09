@@ -1,8 +1,15 @@
-.par-card
-{
+.inter-regular {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.par-card {
     display: flex;
     justify-content: center;
 }
+
 .card {
     background-color: white;
     border-radius: 8px;
@@ -11,17 +18,23 @@
     text-align: center;
     max-width: 300px;
 }
+
 h1 {
     color: #333;
+    font-weight: 600;
 }
+
 p {
     color: #666;
+    line-height: 1.75;
 }
+
 .email {
     font-weight: bold;
     color: #4CAF50;
     margin-bottom: 15px;
 }
+
 .email-btn {
     background-color: #4CAF50;
     border: none;
@@ -35,10 +48,14 @@ p {
     cursor: pointer;
     border-radius: 4px;
 }
+
 body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .flex-grow-1 {
@@ -46,31 +63,44 @@ body {
 }
 
 footer {
-    background-color: #343a40; /* bg-dark */
-    color: #fff; /* text-white */
-    text-align: center; /* text-center */
-    padding: 1rem 0; /* py-3 */
+    background-color: #343a40;
+    /* bg-dark */
+    color: #fff;
+    /* text-white */
+    text-align: center;
+    /* text-center */
+    padding: 1.5rem 0;
+    /* py-3 */
 }
-.content
-{
+
+footer p{
+    color: #ffffff;
+    margin-bottom: 0;
+}
+
+.content {
     padding: 1rem;
 }
+
 .content h1 {
     color: #333;
 }
+
 .content p {
     margin: 10px 0;
 }
+
 .content a {
     color: blue;
     text-decoration: underline;
 }
-.content p img{
+
+.content p img {
     max-width: 30%;
     margin-right: 5px;
 }
 
-.dt-layout-table{
+.dt-layout-table {
     margin-top: 1rem !important;
     margin-bottom: 1rem !important;
 }
