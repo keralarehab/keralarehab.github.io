@@ -65,6 +65,10 @@ footer {
     color: blue;
     text-decoration: underline;
 }
+.content p img{
+    max-width: 30%;
+    margin-right: 5px;
+}
 
 .dt-layout-table{
     margin-top: 1rem !important;
