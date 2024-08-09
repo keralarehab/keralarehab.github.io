@@ -27,8 +27,7 @@ async function fetchMarkdown(url) {
         const anchors = contentElement.querySelectorAll('a');
         anchors.forEach(anchor => {
             if (anchor.textContent.trim() === 'View Progress') {
-                const existingValue = anchor.getAttribute('href').slice(1);
-                anchor.setAttribute('href', `donationdetail.html?value=${existingValue}`);
+                anchor.setAttribute('href', `progressdetail.html#${slug}`);
             }
         })
     } catch (error) {
@@ -74,10 +73,17 @@ function formatMarkdown(markdown) {
     `;
 }
 
-function getQueryParam(param) {
-    const urlParams = new URLSearchParams(window.location.search);
-    return urlParams.get(param);
+function getSlug() {
+    return window.location.hash.substring(1);
 }
-const path = getQueryParam('value');
-const rawLink = 'https://raw.githubusercontent.com/keralarehab/keralarehab/initial_template/incidents/wayanad-landslide-2024/'+path;
+const slug = getSlug();
+function setLink()
+{
+    const pageName = window.location.pathname.split('/').pop();
+    if(pageName=='donationdetail.html')
+        return `offers/${slug}.md`;
+    else
+        return `progress/${slug}.md`;
+}
+const rawLink = "https://raw.githubusercontent.com/keralarehab/keralarehab.github.io/initial_template/incidents/wayanad-landslide-2024/"+setLink();
 fetchMarkdown(rawLink);

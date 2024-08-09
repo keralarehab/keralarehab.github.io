@@ -22,19 +22,9 @@ async function fetchData() {
     const jsonData = await response.json();
     return jsonData;
 }
-function showDetails(donation) {
-    // Navigate to details.html with the id as a URL parameter
-    window.location.href = `donationdetail.html?value=${donation}`;
+function showDetails(url) {
+    window.location.href = url;
 }
-// function createTableHeader(headerData) {
-//     const tableHeader = document.getElementById('table-header');
-//     tableHeader.innerHTML = '';
-//     headerData.forEach(header => {
-//         const th = document.createElement('th');
-//         th.textContent = header;
-//         tableHeader.appendChild(th);
-//     });
-// }
 
 function createTableBody(data) {
     const fileUrl='https://github.com/keralarehab/keralarehab/blob/initial_template/incidents/wayanad-landslide-2024/';
@@ -75,7 +65,7 @@ function createTableBody(data) {
         if (item.offers && item.offers.length > 0) {
             const link = document.createElement('button');
             link.onclick =() => {
-                showDetails(item.offers[0].offer);
+                 showDetails(`donationdetail.html#${item.slug}`);
             };
             link.textContent = 'Details';
             link.className = 'btn btn-outline-primary';
@@ -89,7 +79,7 @@ function createTableBody(data) {
         if (item.offers && item.offers.length > 0) {
             const link = document.createElement('button');
             link.onclick =() => {
-                showDetails(item.offers[0].progress);
+                 showDetails(`progressdetail.html#${item.slug}`);
             };
             link.textContent = 'Progress';
             link.className = 'btn btn-outline-primary';
