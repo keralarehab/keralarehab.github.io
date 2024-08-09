@@ -12,9 +12,11 @@ Home for 2 Families
 
 Prathidhwani, the Welfare organization of IT employees in Kerala, has decided to construct two houses for the victims.
 
-## Progress
+## Media
 
-[View Progress](../progress/prathidhwani.md)
+![prthidhwani offer in fb page](../images/prathidhwani/1723183086424.png)
+
+![cm announces prathidhwani offer](../images/prathidhwani/1723183004314.png)
 
 ## References
 
