@@ -22,7 +22,8 @@ async function fetchMarkdown(url) {
         });
         const tables = contentElement.querySelectorAll('table');
         tables.forEach(table => {
-            table.setAttribute('border', '1');
+            table.classList.add('table', 'table-bordered'); 
+
         });
         const anchors = contentElement.querySelectorAll('a');
         anchors.forEach(anchor => {
