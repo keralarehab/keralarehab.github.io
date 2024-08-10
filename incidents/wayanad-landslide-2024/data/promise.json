@@ -214,8 +214,7 @@
             }
         ],
         "slug": "gm_banathwale_center"
-    }
-    ,
+    },
     {
         "promisor": "ABC Cargo",
         "promise": "Employment to 100 people and free transportation of goods",
@@ -227,6 +226,18 @@
             }
         ],
         "slug": "abc_cargo"
+    },
+    {
+        "promisor": "World Malayali Council",
+        "promise": "Offered 14 Homes",
+        "date_of_promise": "03/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/world_malayali_council.md",
+                "progress": "./progress/world_malayali_council.md"
+            }
+        ],
+        "slug": "world_malayali_council"
     }
 ]
 
