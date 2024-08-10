@@ -16,4 +16,4 @@ The office bearers of the GM Banatwala Center for Humanity announced that they h
 
 ## References
 
-- [metrovartha.com] (https://www.metrovaartha.com/news/mumbai/gm-banathwale-centre-for-humanity-to-build-houses-foe-wayanad-landslide-victims)
+- [metrovartha.com](https://www.metrovaartha.com/news/mumbai/gm-banathwale-centre-for-humanity-to-build-houses-foe-wayanad-landslide-victims)

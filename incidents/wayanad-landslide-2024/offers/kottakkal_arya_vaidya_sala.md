@@ -20,5 +20,5 @@ Kottakkal Arya Vaidya Sala has offered to provide 10 houses, and Yusuf Puraile f
 
 ## References
 
-- [marunadanmalayalee.com] (https://marunadanmalayalee.com/recommended/mundakai-8/)
-- [facebook.com] (https://www.facebook.com/AVSKottakkalOfficial/posts/pfbid02iUDEo6doUAmn2Kqd2i6eZ3jn69xVgp7jw8nQgQa8YenimrZX9PJcDygzJAVqoh15l)
+- [marunadanmalayalee.com](https://marunadanmalayalee.com/recommended/mundakai-8/)
+- [facebook.com](https://www.facebook.com/AVSKottakkalOfficial/posts/pfbid02iUDEo6doUAmn2Kqd2i6eZ3jn69xVgp7jw8nQgQa8YenimrZX9PJcDygzJAVqoh15l)
