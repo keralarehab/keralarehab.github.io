@@ -49,17 +49,17 @@ function createTableBody(data) {
         tdDateOfPromise.textContent = item.date_of_promise || 'NA';
         tr.appendChild(tdDateOfPromise);
 
-        const tdMedia = document.createElement('td');
-        if (item.media) {
-            const button = document.createElement('button');
-            button.textContent = 'View';
-            button.className = 'btn btn-primary';
-            button.onclick = () => showImage(item.media);
-            tdMedia.appendChild(button);
-        } else {
-            tdMedia.textContent = 'NA';
-        }
-        tr.appendChild(tdMedia);
+        //const tdMedia = document.createElement('td');
+        // if (item.media) {
+        //     const button = document.createElement('button');
+        //     button.textContent = 'View';
+        //     button.className = 'btn btn-primary';
+        //     button.onclick = () => showImage(item.media);
+        //     tdMedia.appendChild(button);
+        // } else {
+        //     tdMedia.textContent = 'NA';
+        // }
+        // tr.appendChild(tdMedia);
 
         const tdDetails = document.createElement('td');
         if (item.offers && item.offers.length > 0) {
