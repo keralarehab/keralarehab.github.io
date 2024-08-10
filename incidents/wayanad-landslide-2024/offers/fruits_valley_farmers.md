@@ -12,9 +12,8 @@ Offered 15 acres land
 
 Fruits Valley Farmers Producer Company will acquire 10 acres of land, make it cultivable, and allocate it to 10 to 15 families.
 
-## Progress
+## Media
 
-[View Progress](../progress/fruits_valley_farmers.md)
 
 ## References
 

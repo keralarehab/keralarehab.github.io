@@ -12,9 +12,8 @@ Offered Houses for 3 Collegues
 
 The Kerala Police Housing Cooperative Society has decided to build houses for three colleagues who lost their homes in a landslide in Wayanad.
 
-## Progress
+## Media
 
-[View Progress](../progress/kerala_police_housing_society.md)
 
 ## References
 

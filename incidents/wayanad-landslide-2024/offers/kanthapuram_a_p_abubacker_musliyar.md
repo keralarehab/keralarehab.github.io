@@ -12,9 +12,7 @@ Offered 1 House
 
 Kaanthapuram A.P. Abubacker Musliyar promised to build a house.
 
-## Progress
-
-[View Progress](../progress/kanthapuram_a_p_abubacker_musliyar.md)
+## Media
 
 ## References
 
