@@ -14,7 +14,6 @@ The Kerala Police Housing Cooperative Society has decided to build houses for th
 
 ## Media
 
-
 ## References
 
-- https://www.expresskerala.com/news/landslide-in-wayanad-kerala-police-housing-co-operative-society-to-provide-houses-to-colleagues.html
+- [expressindia.com](https://www.expresskerala.com/news/landslide-in-wayanad-kerala-police-housing-co-operative-society-to-provide-houses-to-colleagues.html)

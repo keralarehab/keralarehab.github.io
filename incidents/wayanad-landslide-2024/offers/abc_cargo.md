@@ -14,8 +14,6 @@ Offers to provide free transportation of essential goods sent from Saudi Arabia 
 
 ## Media
 
-
-
 ## References
 
 - [asianetnews.com](https://newsable.asianetnews.com/kerala-news/abc-cargo-offers-free-transportation-of-goods-employment-to-100-people-from-landslide-hit-areas-in-wayanad-dmn-shss8c)

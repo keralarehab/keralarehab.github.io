@@ -14,8 +14,6 @@ State opposition leader V.D. Satheesan has informed that Lok Sabha opposition le
 
 ## Media
 
-
-
 ## References
 
-- https://marunadanmalayalee.com/recommended/mundakai-8/
+- [marunadanmalayalee.com](https://marunadanmalayalee.com/recommended/mundakai-8/)

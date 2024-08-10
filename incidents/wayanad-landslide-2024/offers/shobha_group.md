@@ -18,6 +18,6 @@ Shobha Group has announced that they will build houses for 50 families who lost 
 
 ## References
 
-- https://www.manoramaonline.com/global-malayali/gulf/2024/08/07/sobha-group-will-build-houses-for-50-people-wayanad-landslide.html
-- https://timesofindia.indiatimes.com/city/kochi/dubai-based-businessman-pnc-menon-pledges-50-homes-for-wayanad-landslide-survivors/articleshow/112389902.cms
+-[manoramaonline.com](https://www.manoramaonline.com/global-malayali/gulf/2024/08/07/sobha-group-will-build-houses-for-50-people-wayanad-landslide.html)
 
+- [timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/city/kochi/dubai-based-businessman-pnc-menon-pledges-50-homes-for-wayanad-landslide-survivors/articleshow/112389902.cms)

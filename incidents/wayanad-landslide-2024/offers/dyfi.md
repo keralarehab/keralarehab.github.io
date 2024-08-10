@@ -18,5 +18,6 @@ DYFI has announced that they will build houses for 25 families who lost their ho
 
 ## References
 
-- https://www.mediaoneonline.com/kerala/dyfi-will-be-built-25-houses-for-rehabilitation-in-mundakkai-landslides-262260
-- https://www.facebook.com/dyfikeralastatecommittee/posts/pfbid02CCz9VMFo2xtau2Wm1LE8aZ27btZ8JY687hGmYoxzLEEcYesNdLJKpaQXKdyrwogzl
+-[mediaoneonline.com](https://www.mediaoneonline.com/kerala/dyfi-will-be-built-25-houses-for-rehabilitation-in-mundakkai-landslides-262260)
+
+- [facebook.com](https://www.facebook.com/dyfikeralastatecommittee/posts/pfbid02CCz9VMFo2xtau2Wm1LE8aZ27btZ8JY687hGmYoxzLEEcYesNdLJKpaQXKdyrwogzl)
