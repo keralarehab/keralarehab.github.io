@@ -12,9 +12,9 @@ Employment to 100 people and free transportation of goods
 
 Offers to provide free transportation of essential goods sent from Saudi Arabia and the UAE to the flood-affected areas and also expressed their willingness to provide jobs to around 100 people from the affected area. Contanc number - +971 56 506 9893
 
-## Progress
+## Media
 
-[View Progress](../progress/abc_cargo.md)
+
 
 ## References
 
