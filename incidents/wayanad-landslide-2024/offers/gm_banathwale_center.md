@@ -12,9 +12,9 @@ Offered 20 Houses
 
 The office bearers of the GM Banatwala Center for Humanity announced that they have decided to build around 20 houses for those who completely lost their homes in the natural disaster at Mundakkal, Wayanad.
 
-## Progress
+## Media
 
-[View Progress](../progress/gm_banathwale_center.md)
+
 
 ## References
 

@@ -12,9 +12,9 @@ Offered 100 houses
 
 State opposition leader V.D. Satheesan has informed that Lok Sabha opposition leader Rahul Gandhi has promised to build 100 houses to people in Wayanad. This will include 25 houses directly overseen by Satheesan himself.
 
-## Progress
+## Media
 
-[View Progress](../progress/rahul_gandhi.md)
+
 
 ## References
 
