@@ -18,5 +18,6 @@ AIYF has announced that they will build houses for 10 families who lost their ho
 
 ## References
 
-- https://www.mediaoneonline.com/kerala/aiyf-will-build-houses-for-10-families-who-have-lost-their-homes-in-mundakkai-262364
-- https://www.facebook.com/AIYFKERALAOFFICIAL/posts/pfbid0Z2rLDKAS58ie3W3ZFuDx3ZkJaavJn4Wbt5X8rqXpDF3qdvY5smbjVmf1F1LrBNu4l
+-[mediaoneonline.com] (https://www.mediaoneonline.com/kerala/aiyf-will-build-houses-for-10-families-who-have-lost-their-homes-in-mundakkai-262364)
+
+- [facebook.com](https://www.facebook.com/AIYFKERALAOFFICIAL/posts/pfbid0Z2rLDKAS58ie3W3ZFuDx3ZkJaavJn4Wbt5X8rqXpDF3qdvY5smbjVmf1F1LrBNu4l)

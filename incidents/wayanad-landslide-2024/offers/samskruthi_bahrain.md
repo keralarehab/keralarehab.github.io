@@ -18,5 +18,5 @@ As part of standing in solidarity with fellow beings affected by the disaster, S
 
 ## References
 
-- https://www.mathrubhumi.com/pravasi/bahrain/wayanad-landslide-samskruthi-will-build-a-house-1.9785610
-- https://www.facebook.com/Samskruthibh/posts/pfbid027heVJqTK89PHQiDvQAkAGm97Sm8SUDX6hou2XVTQAQnFbEfyWLyXrBEGAoUhxjyBl
+- [mathrubhumi.com] (https://www.mathrubhumi.com/pravasi/bahrain/wayanad-landslide-samskruthi-will-build-a-house-1.9785610)
+- [facebook.com] (https://www.facebook.com/Samskruthibh/posts/pfbid027heVJqTK89PHQiDvQAkAGm97Sm8SUDX6hou2XVTQAQnFbEfyWLyXrBEGAoUhxjyBl)

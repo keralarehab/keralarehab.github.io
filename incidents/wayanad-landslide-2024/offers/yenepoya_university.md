@@ -16,6 +16,6 @@ Yenepoya University Manglore offers free education to 100 students who faced the
 
 ## References
 
-- https://timesofindia.indiatimes.com/city/mangaluru/yenepoya-university-offers-free-education-to-100-candidates-affected-by-wayanad-landslides/articleshow/112330983.cms
-- https://www.yenepoya.edu.in/news-details.php?id=578
-- https://www.bangalore.yenepoya.edu.in/admin/photo/14/newspdf/578.pdf
+- [timesofindia.indiatimes.com] (https://timesofindia.indiatimes.com/city/mangaluru/yenepoya-university-offers-free-education-to-100-candidates-affected-by-wayanad-landslides/articleshow/112330983.cms)
+- [yenepoya.edu.in] (https://www.yenepoya.edu.in/news-details.php?id=578)
+- [bangalore.yenepoya.edu.in] (https://www.bangalore.yenepoya.edu.in/admin/photo/14/newspdf/578.pdf)

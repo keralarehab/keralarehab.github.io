@@ -18,5 +18,5 @@ The National Service Scheme (NSS) will provide 150 houses or an equivalent amoun
 
 ## References
 
-- https://marunadanmalayalee.com/recommended/mundakai-8/
-- https://www.facebook.com/photo/?fbid=902594125247366&set=a.381331320706985
+- [marunadadanmalayalee.com] (https://marunadanmalayalee.com/recommended/mundakai-8/)
+- [facebook.com] (https://www.facebook.com/photo/?fbid=902594125247366&set=a.381331320706985)
