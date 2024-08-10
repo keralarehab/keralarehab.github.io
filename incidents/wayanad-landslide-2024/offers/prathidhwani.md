@@ -20,4 +20,4 @@ Prathidhwani, the Welfare organization of IT employees in Kerala, has decided to
 ## References
 
 - [facebook.com](https://www.facebook.com/story.php?story_fbid=926597896178268&id=100064841974670&mibextid=oFDknk&rdid=tzobxo20J5xjc2CM)
-- [help.prathidhwanin.com](https://help.prathidhwani.org/)
+- [help.prathidhwani.com](https://help.prathidhwani.org/)
