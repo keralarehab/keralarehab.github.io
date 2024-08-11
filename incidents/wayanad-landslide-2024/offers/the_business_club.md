@@ -18,6 +18,6 @@ The Business Club, an association of industrialists based in Kozhikode, will bui
 
 ## References
 
--[youtube.com](https://www.youtube.com/watch?v=4kXyOE1Ehog)
+- [youtube.com](https://www.youtube.com/watch?v=4kXyOE1Ehog)
 
 - [thehindu.com](https://www.thehindu.com/news/national/kerala/business-club-to-build-40-houses-for-wayanad-landslide-victims/article68477822.ece)
