@@ -1,0 +1,356 @@
+[
+    {
+        "promisor" : "Prathidhwani",
+        "promise" : "Offered 2 Houses",
+        "date_of_promise": "04/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/prathidhwani.md",
+                "progress": "./progress/prathidhwani.md"
+            }
+        ],
+        "slug" : "prathidhwani"
+    },
+    {
+        "promisor" : "Shobha Group",
+        "promise" : "Offered 50 Houses",
+        "date_of_promise": "04/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/shobha_group.md",
+                "progress": "./progress/shobha_group.md"
+            }
+        ],
+        "slug" : "shobha_group"
+    },
+    {
+        "promisor" : "Lions Club International",
+        "promise" : "Offered 5 crore rupees",
+        "date_of_promise": "04/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/lions_club_international.md",
+                "progress": "./progress/lions_club_international.md"
+            }
+        ],
+        "slug" : "lions_club_international"
+    },
+    {
+        "promisor" : "Karnataka Government - Siddaramaiah",
+        "promise" : "Offered 100 Houses",
+        "date_of_promise": "03/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/karnataka_government.md",
+                "progress": "./progress/karnataka_government.md"
+            }
+        ],
+        "slug": "karnataka_government"
+    },
+    {
+        "promisor": "Yenepoya University",
+        "promise": "Free Education for 100 Students",
+        "date_of_promise": null,
+        "offers": [
+            {
+                "offer": "./offers/yenepoya_university.md",
+                "progress": "./progress/yenepoya_university.md"
+            }
+        ],
+        "slug" : "yenepoya_university"
+    },
+    {
+        "promisor": "DYFI",
+        "promise": "Offered Houses for 25 Families",
+        "date_of_promise": "03/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/dyfi.md",
+                "progress": "./progress/dyfi.md"
+            }
+        ],
+        "slug": "dyfi"
+    },
+    {
+        "promisor": "AIYF",
+        "promise": "Offered Houses for 10 families",
+        "date_of_promise": "01/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/aiyf.md",
+                "progress": "./progress/aiyf.md"
+            }
+        ],
+        "slug": "aiyf"
+    },
+    {
+        "promisor": "The Business Club",
+        "promise": "Offered Houses for 40 families",
+        "date_of_promise": "02/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/the_business_club.md",
+                "progress": "./progress/the_business_club.md"
+            }
+        ],
+        "slug": "the_business_club"
+    },
+    {
+        "promisor": "Kerala Police Housing Society",
+        "promise": "Offered Houses for 3 collegues",
+        "date_of_promise": "02/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/kerala_police_housing_society.md",
+                "progress": "./progress/kerala_police_housing_society.md"
+            }
+        ],
+        "slug": "kerala_police_housing_society"
+    },
+    {
+        "promisor": "Fruits Valley Farmers",
+        "promise": "Offered 15 acres Land",
+        "date_of_promise": "03/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/fruits_valley_farmers.md",
+                "progress": "./progress/fruits_valley_farmers.md"
+            }
+        ],
+        "slug": "fruits_valley_farmers"
+    },
+    {
+        "promisor": "Kanthapuram A P Abubacker Musliyar",
+        "promise": "Offered 1 House",
+        "date_of_promise": "03/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/kanthapuram_a_p_abubacker_musliyar.md",
+                "progress": "./progress/kanthapuram_a_p_abubacker_musliyar.md"
+            }
+        ],
+        "slug": "kanthapuram_a_p_abubacker_musliyar"
+    },
+    {
+        "promisor": "Kottakkal Arya Vaidya Sala",
+        "promise": "Offered 10 Houses",
+        "date_of_promise": "03/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/kottakkal_arya_vaidya_sala.md",
+                "progress": "./progress/kottakkal_arya_vaidya_sala.md"
+            }
+        ],
+        "slug": "kottakkal_arya_vaidya_sala"
+    },
+    {
+        "promisor": "9744887373",
+        "promise": "Offered 4 cent for 4 people",
+        "date_of_promise": "04/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/9744887373.md",
+                "progress": "./progress/9744887373.md"
+            }
+        ],
+        "slug": "9744887373"
+    },
+    {
+        "promisor": "Rahul Gandhi",
+        "promise": "Offered 100 Houses",
+        "date_of_promise": "03/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/rahul_gandhi.md",
+                "progress": "./progress/rahul_gandhi.md"
+            }
+        ],
+        "slug": "rahul_gandhi"
+    },
+    {
+        "promisor": "National Service Scheme",
+        "promise": "Offered 150 Houses",
+        "date_of_promise": "03/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/national_service_scheme.md",
+                "progress": "./progress/national_service_scheme.md"
+            }
+        ],
+        "slug": "national_service_scheme"
+    },
+    {
+        "promisor": "BMC",
+        "promise": "Offered 1 or More Houses",
+        "date_of_promise": "04/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/bmc.md",
+                "progress": "./progress/bmc.md"
+            }
+        ],
+        "slug": "bmc"
+    },
+    {
+        "promisor": "Samskruthi Bahrain",
+        "promise": "Offered 1 Home",
+        "date_of_promise": "05/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/samskruthi_bahrain.md",
+                "progress": "./progress/samskruthi_bahrain.md"
+            }
+        ],
+        "slug": "samskruthi_bahrain"
+    },
+    {
+        "promisor": "GM Banathwale Center",
+        "promise": "Offered 20 Houses",
+        "date_of_promise": "04/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/gm_banathwale_center.md",
+                "progress": "./progress/gm_banathwale_center.md"
+            }
+        ],
+        "slug": "gm_banathwale_center"
+    },
+    {
+        "promisor": "ABC Cargo",
+        "promise": "Employment to 100 people and free transportation of goods",
+        "date_of_promise": "06/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/abc_cargo.md",
+                "progress": "./progress/abc_cargo.md"
+            }
+        ],
+        "slug": "abc_cargo"
+    },
+    {
+        "promisor": "World Malayali Council",
+        "promise": "Offered 14 Homes",
+        "date_of_promise": "03/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/world_malayali_council.md",
+                "progress": "./progress/world_malayali_council.md"
+            }
+        ],
+        "slug": "world_malayali_council"
+    },
+    {
+        "promisor": "KSEB",
+        "promise": "Free electricity for 6 months and waiver of outstanding dues",
+        "date_of_promise": "06/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/kseb.md",
+                "progress": "./progress/kseb.md"
+            }
+        ],
+        "slug": "kseb"
+    },
+    {
+        "promisor": "AKDFA",
+        "promise": "Offered 1 home",
+        "date_of_promise": "06/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/akdfa.md",
+                "progress": "./progress/akdfa.md"
+            }
+        ],
+        "slug": "akdfa"
+    },
+    {
+        "promisor": "Madaneeyam Athmeeya Vedi",
+        "promise": "100 houses or land for 100 houses",
+        "date_of_promise": "05/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/madaneeyam_athmeeya_vedi.md",
+                "progress": "./progress/madaneeyam_athmeeya_vedi.md"
+            }
+        ],
+        "slug": "madaneeyam_athmeeya_vedi"
+    },
+	{
+		"promisor": "Boby Chemmannur",
+		"promise" : "Offered to build 100 houses in 1000 acres land",
+		"date_of_promise": "03/08/2024",
+		"offers": [
+			{
+				"offer":"./offers/boby_chemmannur.md",
+				"progress": "./progress/boby_chemmannur.md"
+			}
+		],
+		"slug": "boby_chemmannur"
+	},
+	{
+		"promisor": "Philokalia Foundation",
+		"promise" : "Offered 100 homes",
+		"date_of_promise": "08/08/2024",
+		"offers": [
+			{
+				"offer":"./offers/philokalia_foundation.md",
+				"progress": "./progress/philokalia_foundation.md"
+			}
+		],
+		"slug": "philokalia_foundation"
+	},
+	{
+
+		"promisor": "Youth Congress",
+		"promise" : "offered 30 homes and education expenses for children. ",
+		"date_of_promise": "02/08/2024",
+		"offers" : [
+			{
+				"offer": "./offers/youth_congress.md",
+				"progress": "./progress/youth_congress.md"
+			}
+		],
+		"slug": "youth_congress"
+	},
+	{
+
+		"promisor": "Indian Union Muslim League",
+		"promise" : "Offered 100 homes",
+		"date_of_promise": "05/08/2024",
+		"offers" : [
+			{
+				"offer": "./offers/iuml.md",
+				"progress": "./progress/iuml.md"
+			}
+		],
+		"slug": "iuml"
+	},
+	{
+
+		"promisor": "Peace Valley Kothamangalam",
+		"promise" : "Offered 20 Houses",
+		"date_of_promise": "01/08/2024",
+		"offers" : [
+			{
+				"offer": "./offers/peace_valley.md",
+				"progress": "./progress/peace_valley.md"
+			}
+		],
+		"slug": "peace_valley"
+	},
+	{
+
+		"promisor": "Reporter TV",
+		"promise" : "മലയാളം വാർത്ത ചാനൽ റിപ്പോർട്ടർ ടിവി വയനാട് ദുരന്തബാധിതർക്ക് ടൗൺഷിപ്പ് പണിയാൻ 150 ഏക്കർ നൽകാം എന്ന് വാഗ്ദാനം ചെയ്തു",
+		"date_of_promise": "04/08/2024",
+		"offers" : [
+			{
+				"offer": "./offers/reporter_tv.md",
+				"progress": "./progress/reporter_tv.md"
+			}
+		],
+		"slug": "reporter_tv"
+	}
+    
+]
+
