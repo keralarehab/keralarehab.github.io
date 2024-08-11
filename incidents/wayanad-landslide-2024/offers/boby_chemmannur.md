@@ -2,7 +2,7 @@
 
 ## Promise 
 
-Offered 1000 acres land 
+Offered land to build 100 houses in 1000 acres land 
 
 ## Date of Promise 
 
