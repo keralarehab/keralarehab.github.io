@@ -238,9 +238,7 @@
             }
         ],
         "slug": "world_malayali_council"
-    }
-
-	 ,
+    },
     {
         "promisor": "KSEB",
         "promise": "Free electricity for 6 months and waiver of outstanding dues",
@@ -253,7 +251,30 @@
         ],
         "slug": "kseb"
     },
-
+    {
+        "promisor": "AKDFA",
+        "promise": "Offered 1 home",
+        "date_of_promise": "06/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/akdfa.md",
+                "progress": "./progress/akdfa.md"
+            }
+        ],
+        "slug": "akdfa"
+    },
+    {
+        "promisor": "Madaneeyam Athmeeya Vedi",
+        "promise": "100 houses or land for 100 houses",
+        "date_of_promise": "05/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/madaneeyam_athmeeya_vedi.md",
+                "progress": "./progress/madaneeyam_athmeeya_vedi.md"
+            }
+        ],
+        "slug": "madaneeyam_athmeeya_vedi"
+    },
 	{
 		"promisor": "Boby Chemmannur",
 		"promise" : "Offered 1000 acres land",
@@ -291,6 +312,5 @@
 		],
 		"slug": "Youth Congress"
 	}
-
 ]
 
