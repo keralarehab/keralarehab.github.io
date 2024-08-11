@@ -337,6 +337,20 @@
 			}
 		],
 		"slug": "peace_valley"
+	},
+	{
+
+		"promisor": "Reporter TV",
+		"promise" : "മലയാളം വാർത്ത ചാനൽ റിപ്പോർട്ടർ ടിവി വയനാട് ദുരന്തബാധിതർക്ക് ടൗൺഷിപ്പ് പണിയാൻ 1500 ഏക്കർ നൽകാം എന്ന് വാഗ്ദാനം ചെയ്തു",
+		"date_of_promise": "04/08/2024",
+		"offers" : [
+			{
+				"offer": "./offers/reporter_tv.md",
+				"progress": "./progress/reporter_tv.md"
+			}
+		],
+		"slug": "reporter_tv"
 	}
+    
 ]
 
