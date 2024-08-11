@@ -311,6 +311,19 @@
 			}
 		],
 		"slug": "youth_congress"
+	},
+	{
+
+		"promisor": "Indian Union Muslim League",
+		"promise" : "Offered 100 homes",
+		"date_of_promise": "05/08/2024",
+		"offers" : [
+			{
+				"offer": "./offers/iuml.md",
+				"progress": "./progress/iuml.md"
+			}
+		],
+		"slug": "iuml"
 	}
 ]
 
