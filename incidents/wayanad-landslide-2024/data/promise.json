@@ -238,6 +238,41 @@
             }
         ],
         "slug": "world_malayali_council"
-    }
+    },
+	{
+		"promisor": "Boby Chemmannur",
+		"promise" : "Offered 1000 acres land",
+		"date_of_promise": "03/08/2024",
+		"offers": [
+			{
+				"offer":"./offers/boby_chemmannur.md",
+				"progress": "./progress/boby_chemmannur.md"
+			}
+		]
+	},
+	{
+		"promisor": "Philokalia Foundation",
+		"promise" : "Offered 100 homes",
+		"date_of_promise": "08/08/2024",
+		"offers": [
+			{
+				"offer":"./offers/philokalia.md",
+				"progress": "./progress/philokalia.md"
+			}
+		]
+	},
+	{
+
+		"promisor": "Youth Congress",
+		"promise" : "offered 30 homes and education expenses for children. ",
+		"date_of_promise": "02/08/2024",
+		"offers" : [
+			{
+				"offer": "./offers/youth_congress.md",
+				"progress": "./progress/youth_congress.md"
+			}
+		]
+	}
+
 ]
 
