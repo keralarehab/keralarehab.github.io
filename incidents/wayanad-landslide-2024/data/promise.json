@@ -293,8 +293,8 @@
 		"date_of_promise": "08/08/2024",
 		"offers": [
 			{
-				"offer":"./offers/philokalia.md",
-				"progress": "./progress/philokalia.md"
+				"offer":"./offers/philokalia_foundation.md",
+				"progress": "./progress/philokalia_foundation.md"
 			}
 		],
 		"slug": "philokalia_foundation"
