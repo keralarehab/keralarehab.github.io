@@ -350,6 +350,32 @@
 			}
 		],
 		"slug": "reporter_tv"
+	},
+    {
+
+		"promisor": "Mohanlal",
+		"promise" : "മോഹന്‍ലാലിന്റെ വിശ്വശാന്തി ഫൗണ്ടേഷന്‍ 3 കോടി നല്‍കും, സ്‌കൂള്‍ പുതുക്കി പണിയും",
+		"date_of_promise": "03/08/2024",
+		"offers" : [
+			{
+				"offer": "./offers/mohanlal.md",
+				"progress": "./progress/mohanlal.md"
+			}
+		],
+		"slug": "mohanlal"
+	},
+    {
+
+		"promisor": "Chittilappilly Foundation",
+		"promise" : "15 കോടി രൂപയുടെ  ദുരിതാശ്വാസ പ്രവൃത്തികൾ നടത്തുമെന്ന് പത്രസമ്മേള്ളനത്തിൽ അറിയിച്ചു.",
+		"date_of_promise": "05/08/2024",
+		"offers" : [
+			{
+				"offer": "./offers/chittilappilly_foundation.md",
+				"progress": "./progress/chittilappilly_foundation.md"
+			}
+		],
+		"slug": "chittilappilly_foundation"
 	}
     
 ]
