@@ -238,7 +238,22 @@
             }
         ],
         "slug": "world_malayali_council"
+    }
+
+	 ,
+    {
+        "promisor": "KSEB",
+        "promise": "Free electricity for 6 months and waiver of outstanding dues",
+        "date_of_promise": "06/08/2024",
+        "offers": [
+            {
+                "offer": "./offers/kseb.md",
+                "progress": "./progress/kseb.md"
+            }
+        ],
+        "slug": "kseb"
     },
+
 	{
 		"promisor": "Boby Chemmannur",
 		"promise" : "Offered 1000 acres land",
@@ -248,7 +263,8 @@
 				"offer":"./offers/boby_chemmannur.md",
 				"progress": "./progress/boby_chemmannur.md"
 			}
-		]
+		],
+		"slug": "boby_chemmannur"
 	},
 	{
 		"promisor": "Philokalia Foundation",
@@ -259,7 +275,8 @@
 				"offer":"./offers/philokalia.md",
 				"progress": "./progress/philokalia.md"
 			}
-		]
+		],
+		"slug": "philokalia Foundation"
 	},
 	{
 
@@ -271,7 +288,8 @@
 				"offer": "./offers/youth_congress.md",
 				"progress": "./progress/youth_congress.md"
 			}
-		]
+		],
+		"slug": "Youth Congress"
 	}
 
 ]
