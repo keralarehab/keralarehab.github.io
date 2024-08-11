@@ -1,17 +1,18 @@
+//Function for fetching data from promise.josn
 async function fetchData() {
+    //Repo Credentials
     const repoOwner = 'keralarehab';
     const repoName = 'keralarehab';
     const filePath = 'incidents/wayanad-landslide-2024/data/promise.json';
     const branch = 'initial_template';
     const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${filePath}?ref=${branch}`;
 
-
     const response = await fetch(apiUrl, {
         headers: {
             'Accept': 'application/vnd.github.v3.raw'
         }
     });
-
+    //Making log in case of failed fetch
     if (!response.ok) {
         console.log(apiUrl);
         console.log("Response error occured");
@@ -22,21 +23,30 @@ async function fetchData() {
     const jsonData = await response.json();
     return jsonData;
 }
+//onclick handler for details button on donations.html
 function showDetails(url) {
     window.location.href = url;
 }
 
+//Function for generating table to donations.html
 function createTableBody(data) {
     const fileUrl='https://github.com/keralarehab/keralarehab/blob/initial_template/incidents/wayanad-landslide-2024/';
     const tableBody = document.getElementById('table-body');
     tableBody.innerHTML = '';
+
+    // Sort data by date_of_promise in descending order
+    data.sort((a, b) => new Date(b.date_of_promise) - new Date(a.date_of_promise));
+
+    //converting each document from data to rows
     data.forEach((item, index) => {
         const tr = document.createElement('tr');
         
+        //SlNo is generated on recent to oldest order
         const tdSlNo = document.createElement('td');
         tdSlNo.textContent = index + 1;
         tr.appendChild(tdSlNo);
 
+        //NA will be given in case of missing values
         const tdPromise = document.createElement('td');
         tdPromise.textContent = item.promise || 'NA';
         tr.appendChild(tdPromise);
@@ -49,18 +59,7 @@ function createTableBody(data) {
         tdDateOfPromise.textContent = item.date_of_promise || 'NA';
         tr.appendChild(tdDateOfPromise);
 
-        //const tdMedia = document.createElement('td');
-        // if (item.media) {
-        //     const button = document.createElement('button');
-        //     button.textContent = 'View';
-        //     button.className = 'btn btn-primary';
-        //     button.onclick = () => showImage(item.media);
-        //     tdMedia.appendChild(button);
-        // } else {
-        //     tdMedia.textContent = 'NA';
-        // }
-        // tr.appendChild(tdMedia);
-
+        //Details Button
         const tdDetails = document.createElement('td');
         if (item.offers && item.offers.length > 0) {
             const link = document.createElement('button');
@@ -75,6 +74,7 @@ function createTableBody(data) {
         }
         tr.appendChild(tdDetails);
 
+        //Progress Button
         const tdProgress = document.createElement('td');
         if (item.offers && item.offers.length > 0) {
             const link = document.createElement('button');
@@ -93,18 +93,12 @@ function createTableBody(data) {
     });
 }
 
-function showImage(url) {
-    const modalImage = document.getElementById('modalImage');
-    modalImage.src = url;
-    $('#imageModal').modal('show');
-}
-
-
-function showImage(url) {
-    const modalImage = document.getElementById('modalImage');
-    modalImage.src = url;
-    $('#imageModal').modal('show');
-}
+//Modal used to display media - commeting for the time being
+// function showImage(url) {
+//     const modalImage = document.getElementById('modalImage');
+//     modalImage.src = url;
+//     $('#imageModal').modal('show');
+// }
 
 async function loadTable() {
     try {
