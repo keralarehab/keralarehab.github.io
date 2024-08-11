@@ -31,8 +31,9 @@ async function fetchMarkdown(url) {
         const anchors = contentElement.querySelectorAll('a');
         anchors.forEach(anchor => {
             if (anchor.textContent.trim() === 'View Progress') {
-                anchor.setAttribute('href', `progressdetail.html#${slug}`);
+                anchor.setAttribute('href', `progressdetail.html#${slug}`);                
             }
+            anchor.setAttribute('target', '_blank');
         })
     } catch (error) {
         console.error('Error fetching markdown:', error);
