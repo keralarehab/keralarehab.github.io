@@ -324,6 +324,19 @@
 			}
 		],
 		"slug": "iuml"
+	},
+	{
+
+		"promisor": "Peace Valley Kothamangalam",
+		"promise" : "Offered 20 Houses",
+		"date_of_promise": "01/08/2024",
+		"offers" : [
+			{
+				"offer": "./offers/peace_valley.md",
+				"progress": "./progress/peace_valley.md"
+			}
+		],
+		"slug": "peace_valley"
 	}
 ]
 
