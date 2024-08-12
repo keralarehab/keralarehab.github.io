@@ -24,5 +24,5 @@ The Malankara Orthodox Syrian Church will construct houses for 50 people at a co
 - [thehindu](https://www.thehindu.com/news/national/kerala/organisations-extend-financial-support-to-families-hit-by-landslides/article68484872.ece
 )
 
--[mosc](https://mosc.in/uploads/2024/01/Kalpana-No.-206-Wayanad.pdf
+- [mosc](https://mosc.in/uploads/2024/01/Kalpana-No.-206-Wayanad.pdf
 )
