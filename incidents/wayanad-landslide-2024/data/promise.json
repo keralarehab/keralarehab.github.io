@@ -415,6 +415,162 @@
 			}
 		],
 		"slug": "gokulam_gopalan"
+	},
+    {
+
+		"promisor": "Rahul Mankoottathil",
+		"promise" : "Offers 1 jeep to Niyas",
+		"date_of_promise": "09-08-2024",
+		"offers" : [
+			{
+				"offer": "./offers/rahul_mankoottathil.md",
+				"progress": "./progress/rahul_mankoottathil.md"
+			}
+		],
+		"slug": "rahul_mankoottathil"
+	},
+    {
+
+		"promisor": "A. M. Vikramaraja",
+		"promise" : "Offered 100 houses",
+		"date_of_promise": "12-08-2024",
+		"offers" : [
+			{
+				"offer": "./offers/federation_tamilnadu_traders.md",
+				"progress": "./progress/federation_tamilnadu_traders.md"
+			}
+		],
+		"slug": "federation_tamilnadu_traders"
+	},
+    {
+
+		"promisor": "Nasar Manu",
+		"promise" : "Offered 10 houses",
+		"date_of_promise": "07-08-2024",
+		"offers" : [
+			{
+				"offer": "./offers/nasar_manu.md",
+				"progress": "./progress/nasar_manu.md"
+			}
+		],
+		"slug": "nasar_manu"
+	},
+    {
+
+		"promisor": "NSS of Chicago",
+		"promise" : "Offered house",
+		"date_of_promise": "08-08-2024",
+		"offers" : [
+			{
+				"offer": "./offers/nss_chicago.md",
+				"progress": "./progress/nss_chicago.md"
+			}
+		],
+		"slug": "nss_chicago"
+	},
+    {
+
+		"promisor": "Shakthi Theatres Abu Dhabi",
+		"promise" : "Offered 2 house",
+		"date_of_promise": "07-08-2024",
+		"offers" : [
+			{
+				"offer": "./offers/shakthi_theatre_abudhabi.md",
+				"progress": "./progress/shakthi_theatre_abudhabi.md"
+			}
+		],
+		"slug": "shakthi_theatre_abudhabi"
+	},
+    {
+
+		"promisor": "MAS (Malayali Arts & Social Center)",
+		"promise" : "Offered 2 house",
+		"date_of_promise": "06-08-2024",
+		"offers" : [
+			{
+				"offer": "./offers/malayali_arts_and_social_centre.md",
+				"progress": "./progress/malayali_arts_and_social_centre.md"
+			}
+		],
+		"slug": "malayali_arts_and_social_centre"
+	},
+    {
+
+		"promisor": "AIMA  Odisha",
+		"promise" : "Offered 25 house",
+		"date_of_promise": "07-08-2024",
+		"offers" : [
+			{
+				"offer": "./offers/aima_odisha.md",
+				"progress": "./progress/aima_odisha.md"
+			}
+		],
+		"slug": "aima_odisha"
+	},
+    {
+
+		"promisor": " Abdullatif Sakhafi",
+		"promise" : "Offered 100 houses",
+		"date_of_promise": "06-08-2024",
+		"offers" : [
+			{
+				"offer": "./offers/abdullathif_sakhafi.md",
+				"progress": "./progress/abdullathif_sakhafi.md"
+			}
+		],
+		"slug": "abdullathif_sakhafi"
+	},
+    {
+
+		"promisor": " KGA Group",
+		"promise" : "Offered 50 houses",
+		"date_of_promise": "04-08-2024",
+		"offers" : [
+			{
+				"offer": "./offers/kga_group.md",
+				"progress": "./progress/kga_group.md"
+			}
+		],
+		"slug": "kga_group"
+	},
+    {
+
+		"promisor": " Anto Augustine",
+		"promise" : "Offered 150 acres land and 300 houses",
+		"date_of_promise": "04-08-2024",
+		"offers" : [
+			{
+				"offer": "./offers/anto_augustine.md",
+				"progress": "./progress/anto_augustine.md"
+			}
+		],
+		"slug": "anto_augustine"
+	},
+    {
+
+		"promisor": "KNM ",
+		"promise" : "Offered 50 houses",
+		"date_of_promise": "11-08-2024",
+		"offers" : [
+			{
+				"offer": "./offers/knm.md",
+				"progress": "./progress/knm.md"
+			}
+		],
+		"slug": "knm"
+	},
+    {
+
+		"promisor": "joseph ",
+		"promise" : "5 cent land to 3 families",
+		"date_of_promise": "11-08-2024",
+		"offers" : [
+			{
+				"offer": "./offers/joseph.md",
+				"progress": "./progress/joseph.md"
+			}
+		],
+		"slug": "joseph"
 	}
     
 ]
