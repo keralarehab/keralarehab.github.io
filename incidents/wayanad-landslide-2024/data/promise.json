@@ -402,6 +402,19 @@
 			}
 		],
 		"slug": "ernakulam_mahallu_koottayma"
+	},
+    {
+
+		"promisor": "Gokulam Gopalan",
+		"promise" : "Offered 25 houses",
+		"date_of_promise": "04-08-2024",
+		"offers" : [
+			{
+				"offer": "./offers/gokulam_gopalan.md",
+				"progress": "./progress/gokulam_gopalan.md"
+			}
+		],
+		"slug": "gokulam_gopalan"
 	}
     
 ]
