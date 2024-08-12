@@ -389,6 +389,19 @@
 			}
 		],
 		"slug": "malankara_orthodox_church"
+	},
+    {
+
+		"promisor": "Ernakulam Mahallu koottaayma",
+		"promise" : "Offered 20 houses",
+		"date_of_promise": "11-08-2024",
+		"offers" : [
+			{
+				"offer": "./offers/ernakulam_mahallu_koottayma.md",
+				"progress": "./progress/ernakulam_mahallu_koottayma.md"
+			}
+		],
+		"slug": "ernakulam_mahallu_koottayma"
 	}
     
 ]
