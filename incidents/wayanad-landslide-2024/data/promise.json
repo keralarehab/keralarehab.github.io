@@ -376,6 +376,19 @@
 			}
 		],
 		"slug": "chittilappilly_foundation"
+	},
+    {
+
+		"promisor": "Malankara Orthodox Church",
+		"promise" : "Offered 50 houses",
+		"date_of_promise": "02-08-2024",
+		"offers" : [
+			{
+				"offer": "./offers/malankara_orthodox_church.md",
+				"progress": "./progress/malankara_orthodox_church.md"
+			}
+		],
+		"slug": "malankara_orthodox_church"
 	}
     
 ]
