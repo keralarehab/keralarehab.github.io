@@ -14,7 +14,7 @@ Provide a detailed description of the incident here.
 
 ## Donation Offers
 
-List all the donation offers with details such as the donor (promisor), type of donation, and estimated value.
+List all the donation offers with details such as the donor, type of donation, and estimated value.
 
 ## Contact Information
 
