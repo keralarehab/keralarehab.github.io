@@ -13,4 +13,3 @@ The initial relief efforts have started.
 ## Media
 
 - [Link to Images](./media/images)
-- [Link to Videos](./media/videos)
