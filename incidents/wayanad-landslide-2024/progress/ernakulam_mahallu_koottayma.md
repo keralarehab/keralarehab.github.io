@@ -1,4 +1,4 @@
-# [Ernakulam Mahallu Koottayma]
+# Ernakulam Mahallu Koottayma
 
 
 | Date         | Update  | Status |
