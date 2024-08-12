@@ -1,0 +1,30 @@
+name: Update Contributors
+
+on:
+  pull_request:
+    types: [closed]
+
+jobs:
+  update-contributors:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Add contributor to file
+        run: |
+          if [ "${{ github.event.pull_request.merged }}" = "true" ]; then
+            contributor="${{ github.event.pull_request.user.login }}"
+            contributors_file="CONTRIBUTORS.md"
+            
+            # Check if contributor is already in the file
+            if ! grep -q "$contributor" "$contributors_file"; then
+              echo "$contributor" >> "$contributors_file"
+              git config --global user.name "github-actions"
+              git config --global user.email "actions@github.com"
+              git add "$contributors_file"
+              git commit -m "Add contributor $contributor"
+              git push
+            fi
+          fi
