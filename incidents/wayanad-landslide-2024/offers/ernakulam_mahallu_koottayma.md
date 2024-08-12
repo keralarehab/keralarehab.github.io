@@ -14,7 +14,7 @@ Nasar Manu posted video on Facebook that is Ernakulam Mahallu koottaaayma offere
 
 ## Media
 
-![offer](image_url)
+
 
 ## References
 
