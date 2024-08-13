@@ -44,7 +44,7 @@ const offerDetailPage = async () => {
 
                 try {
 
-                    let tempOg = ogData;
+                    let tempOg = { ...ogData };
 
                     // Fetch and render offer details page
                     const offerContent = await fetchMarkdownToHTML(offerUrl);
@@ -81,6 +81,9 @@ const offerDetailPage = async () => {
 
                     
                     let tdata = { ...tempOg, ...jsonData };
+
+                    // console.log(tdata);
+                    // console.log(ogData);
 
                     ejs.renderFile('views/offerDetail.ejs', tdata, (err, offerStr) => {
                         if (err) {
