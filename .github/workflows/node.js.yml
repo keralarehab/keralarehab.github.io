@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - frontend
+  pull_request:
+    types: [closed]
+    branches:
+      - frontend
 
 jobs:
   build:
@@ -21,8 +25,14 @@ jobs:
     - name: Install dependencies
       run: npm install
 
+    - name: List root directory
+      run: ls -la
+
     - name: Run build script
       run: node build/index.js
+
+    - name: List dist directory
+      run: ls -la ./dist
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
