@@ -43,6 +43,9 @@ const offerDetailPage = async () => {
                 console.log(progressUrl);
 
                 try {
+
+                    let tempOg = ogData;
+
                     // Fetch and render offer details page
                     const offerContent = await fetchMarkdownToHTML(offerUrl);
 
@@ -51,14 +54,15 @@ const offerDetailPage = async () => {
 
                     // Extract the text from the <p> tag under the <h2 id="details"> heading
                     const detailsText = $('h2#details').next('p').text();
-                    ogData.og_description = detailsText;
+                    tempOg.og_description = detailsText;
 
                     const firstImageSrc = $('img').first().attr('src') || null;
                     if(firstImageSrc){
-                        ogData.og_image = firstImageSrc;
+                        tempOg.og_image = firstImageSrc;
                     }
+                    
 
-                    ogData.og_title = donation.promisor + ' | ' + donation.promise;
+                    tempOg.og_title = donation.promisor + ' | ' + donation.promise;
 
                     const progressContent = await fetchMarkdownToHTML(progressUrl);
 
@@ -75,7 +79,7 @@ const offerDetailPage = async () => {
                         nextOfferUrl: nextOfferUrl
                     };
 
-                    let tdata = { ...ogData, ...jsonData };
+                    let tdata = { ...tempOg, ...jsonData };
 
                     ejs.renderFile('views/offerDetail.ejs', tdata, (err, offerStr) => {
                         if (err) {
