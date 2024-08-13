@@ -2,12 +2,14 @@
   "name": "landslide-donations",
   "version": "1.0.0",
   "description": "Website for displaying donation offers for the Wayanad landslide incident",
-  "main": "build.js",
+  "main": "build/index.js",
   "scripts": {
-    "build": "node build.js"
+    "build": "npm run clean && node build/index.js",
+    "clean": "rimraf dist",
+    "start": "http-server dist"
   },
   "dependencies": {
-    "axios": "^1.2.0",
+    "axios": "^1.7.3",
     "cheerio": "^1.0.0-rc.12",
     "ejs": "^3.1.8",
     "marked": "^4.2.0"
@@ -15,6 +17,8 @@
   "author": "Your Name",
   "license": "MIT",
   "devDependencies": {
-    "fs-extra": "^11.2.0"
+    "fs-extra": "^11.2.0",
+    "http-server": "^14.1.1",
+    "rimraf": "^5.0.10"
   }
 }
