@@ -31,6 +31,9 @@ jobs:
     - name: Run build script
       run: node build/index.js
 
+    - name: List root directory
+      run: ls -la
+
     - name: List dist directory
       run: ls -la ./dist
 
