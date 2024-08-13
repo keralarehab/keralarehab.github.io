@@ -3,7 +3,7 @@ const ogData = {
     og_title: 'Kerala Rehab | Transforming Promises into Support for Wayanad Landslide Victims',
     og_description: 'Kerala Rehab is committed to turning pledges into action by ensuring that promises made to disaster victims are fulfilled. Join us in making a difference.',
     og_url: 'https://www.keralarehab.in',
-    og_image: 'https://keralarehab.in/assets/images/og-img-kerala-rehab.png',
+    og_image: 'https://keralarehab.in/assets/images/og-image-kerala-rehab.png',
     og_keywords: '',
 };
 
