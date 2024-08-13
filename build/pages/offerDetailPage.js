@@ -79,6 +79,7 @@ const offerDetailPage = async () => {
                         nextOfferUrl: nextOfferUrl
                     };
 
+                    //merging datas
                     let tdata = { ...tempOg, ...jsonData };
 
                     ejs.renderFile('views/offerDetail.ejs', tdata, (err, offerStr) => {
