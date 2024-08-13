@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     var links = document.querySelectorAll('#offerContent a');
     links.forEach(function(link) {
-        link.setAttribute('target', '_blank');
+        link.setAttribute('target', '_blank'); 
     });
 
     var table = document.querySelector('table');
