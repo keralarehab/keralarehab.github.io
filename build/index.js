@@ -6,6 +6,7 @@ const buildHomePage = require('./pages/homePage');
 const buildAboutPage = require('./pages/aboutPage');
 const buildContactPage = require('./pages/contactPage');
 const buildOffersPage = require('./pages/offersPage');
+const buildSubmissionsPage = require('./pages/submissionsPage');
 const buildOfferDetailPages = require('./pages/offerDetailPage');
 const sitemap = require('./pages/sitemap');
 
@@ -15,6 +16,7 @@ const build = async () => {
     await buildAboutPage();
     await buildContactPage();
     await buildOffersPage();
+    await buildSubmissionsPage();
     await buildOfferDetailPages();
     await sitemap();
 };
