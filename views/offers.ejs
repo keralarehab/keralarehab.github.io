@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Include Analytics -->
+    <%- include('partials/analytics') %>
+
+    <!-- Include Static Meta Properties -->
+    <%- include('partials/meta') %>
+
+    <!-- Include Dynamic Meta Properties -->
+    <%- include('partials/meta_dynamic') %>
+
+    <title>Kerala Rehab | Offers</title>
+
+    <!-- Include Styles -->
+    <%- include('partials/styles') %>
+    <link rel="icon" href="./asset/images/keralarehab-logo.png" type="image/png">
+    <link href="./asset/css/style.css" rel="stylesheet">
+
+</head>
+
+<body class="d-flex flex-column min-vh-100">
+   
+    <!-- Include Navbar -->
+    <%- include('partials/navbar') %>
+
+    <div class="container mt-5">
+        <!-- <h4 class="mb-3">Donation Offers curated till date are as follows:</h4> -->
+
+        <!-- Search Bar -->
+        <div class="mb-4">
+            <input type="text" id="searchInput" class="form-control" placeholder="Search offers..." />
+        </div>
+
+         <!-- Offers List -->
+         <div id="offersList">
+            <% if (data && data.length > 0) { %>
+                <div class="row">
+                    <% data.forEach(item => { %>
+                        <div class="col-md-4 mb-3 offer-item" data-name="<%= item.promisor %>">
+                            <div class="card" >
+                                <div class="card-body">
+                                    <h5 class="card-title"><%= item.promisor %></h5>
+                                    <p class="card-text"><strong>Promise:</strong> <%= item.promise %></p>
+                                    <p class="card-text"><strong>Date:</strong> <%= item.date_of_promise || 'Not Specified' %></p>
+                                    <a href="./offer/<%= item.slug %>-wayanad-donation.html" class="btn btn-primary">See Offer</a>
+                                </div>
+                            </div>
+                        </div>
+                    <% }) %>
+                </div>
+            <% } else { %>
+                <p>No offers available at the moment.</p>
+            <% } %>
+
+            <!-- Pagination Controls -->
+        <!-- <nav aria-label="Page navigation">
+            <ul class="pagination" id="paginationControls"></ul>
+        </nav> -->
+        </div>
+
+            
+        
+
+    </div>
+
+    <!-- Include Footer -->
+    <%- include('partials/footer') %>
+
+    <!-- Include Scripts -->
+    <%- include('partials/scripts') %>
+
+    <!-- Custom Script -->
+    <script src="./asset/js/offers.js" defer></script>
+</body>
+
+</html>

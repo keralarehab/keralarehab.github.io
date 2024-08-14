@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Include Analytics -->
+    <%- include('partials/analytics') %>
+
+    <!-- Include Static Meta Properties -->
+    <%- include('partials/meta') %>
+
+    <!-- Include Dynamic Meta Properties -->
+    <%- include('partials/meta_dynamic') %>
+
+
+    <title>Kerala Rehab Website</title>
+
+    <!-- Include Styles -->
+    <%- include('partials/styles') %>
+    <link rel="icon" href="./asset/images/keralarehab-logo.png" type="image/png">
+    <link href="./asset/css/style.css" rel="stylesheet">
+
+</head>
+
+<body class="d-flex flex-column min-vh-100">
+    
+    <!-- Include Navbar -->
+    <%- include('partials/navbar') %>
+
+    <div class="container mt-5">
+        <h1 class="mb-5 text-center">Welcome to Kerala Rehab</h1>
+        <h4 class="mb-4 text-center">
+            Kerala Rehab: Your Promise, Our Commitment
+        </h4>
+        <p class="text-justify mb-3">
+            Kerala Rehab is a dedicated platform designed to transform pledges into tangible support for those in need.
+            Born from the urgent response to the 2024 Wayanad landslide, our mission extends beyond a single crisis. We
+            are committed to ensuring that every promise made by individuals, firms, and society to disaster victims is
+            fulfilled. Through rigorous monitoring and transparent reporting, we strive to create a world where pledges
+            are not mere words, but actions that uplift lives.
+        </p>
+        <p class="mb-3">
+            Whether it's a natural disaster, economic hardship, or any other crisis, Kerala Rehab is here to bridge the
+            gap between promise and reality.
+        </p>
+        <div class="d-flex justify-content-center mt-5">
+            <a href="./donations.html" class="btn btn-primary btn-lg mr-2">See Offers</a>
+            <a href="./submissions.html" class="btn btn-success btn-lg">Add Offers</a>
+        </div>
+        <div class="mb-4"></div>
+    </div>
+
+    <!-- Include Footer -->
+    <%- include('partials/footer') %>
+
+    <!-- Include Scripts -->
+    <%- include('partials/scripts') %>
+
+    <!-- Custom Script -->
+</body>
+
+</html>
