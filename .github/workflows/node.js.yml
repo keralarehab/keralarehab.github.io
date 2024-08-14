@@ -3,11 +3,11 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - frontend
+      - frontend_ssr
   pull_request:
     types: [closed]
     branches:
-      - frontend
+      - frontend_ssr
 
 jobs:
   build:
