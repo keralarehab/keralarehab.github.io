@@ -7,6 +7,7 @@ const buildAboutPage = require('./pages/aboutPage');
 const buildContactPage = require('./pages/contactPage');
 const buildOffersPage = require('./pages/offersPage');
 const buildOfferDetailPages = require('./pages/offerDetailPage');
+const sitemap = require('./pages/sitemap');
 
 // Main build function to call all other build scripts
 const build = async () => {
@@ -15,6 +16,7 @@ const build = async () => {
     await buildContactPage();
     await buildOffersPage();
     await buildOfferDetailPages();
+    await sitemap();
 };
 
 
