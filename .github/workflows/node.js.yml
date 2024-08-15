@@ -13,6 +13,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write   # Needed for deploying changes
+      pages: write      # Required for GitHub Pages deployment
+
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
