@@ -2,7 +2,7 @@
 
 ## Promise
 
-Offered 100 homespromise
+Offered 100 homes promise
 
 ## Date of Promise
 
