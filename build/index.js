@@ -35,7 +35,8 @@ const copyDirectory = (src, dest) => {
         }
     });
 };
+ 
 
-
+copyDirectory('public/asset', 'dist');
 copyDirectory('public/asset', 'dist/asset');
 build();
