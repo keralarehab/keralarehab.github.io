@@ -25,7 +25,7 @@
     <!-- Include Navbar -->
     <%- include('partials/navbar') %>
 
-    <div class="container mt-5">
+    <div class="container mt-5 pb-5">
         <!-- <h4 class="mb-3">Donation Offers curated till date are as follows:</h4> -->
 
         <!-- Search Bar -->
@@ -44,7 +44,7 @@
                                     <h5 class="card-title"><%= item.promisor %></h5>
                                     <p class="card-text"><strong>Promise:</strong> <%= item.promise %></p>
                                     <p class="card-text"><strong>Date:</strong> <%= item.date_of_promise || 'Not Specified' %></p>
-                                    <a href="./offer/<%= item.slug %>-wayanad-donation.html" class="btn btn-primary">See Offer</a>
+                                    <a href="./offer/<%= item.slug %>-wayanad-donation.html" class="btn btn-success">See Offer</a>
                                 </div>
                             </div>
                         </div>
