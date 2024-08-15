@@ -30,7 +30,7 @@ jobs:
       run: npm install
 
     - name: List root directory
-      run: ls -la
+      run: ls -lah
 
     - name: Run build script
       run: node build/index.js
