@@ -60,15 +60,6 @@ const clearDistFolder = () => {
     }
 };
 
-// Check if the CNAME file exists
-if (!fs.existsSync('dist/CNAME')) {
-    // If it doesn't exist, create the file with the specified content
-    fs.writeFileSync('dist/CNAME', 'keralarehab.in', 'utf8');
-    console.log(`CNAME file created with doamin`);
-} else {
-    console.log('CNAME file already exists.');
-}
-
 // Main build function
 const build = async () => {
     clearDistFolder();
@@ -185,11 +176,6 @@ const build = async () => {
         // Copy assets from public to dist folder
         copyDirectory('public/asset', 'dist/asset');
         console.log('Assets have been copied to dist/asset');
-
-        // Generate CNAME        
-        ensureDirectoryExistence('dist/CNAME');
-        fs.writeFileSync('dist/CNAME', 'keralarehab.in');
-        console.log('CNAME has been created');
 
     } catch (error) {
         console.error('Error fetching JSON data:', error);
