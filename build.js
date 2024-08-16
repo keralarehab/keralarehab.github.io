@@ -8,7 +8,7 @@ const cheerio = require('cheerio');
 const og_title = 'Kerala Rehab | Transforming Promises into Support for Wayanad Landslide Victims';
 const og_description = 'Kerala Rehab is committed to turning pledges into action by ensuring that promises made to disaster victims are fulfilled. Join us in making a difference.';
 const og_url = 'https://www.keralarehab.in';
-const og_image = 'https://keralarehab.in/assets/images/og-img-kerala-rehab.png';
+const og_image = 'https://keralarehab.in/asset/images/og-image-kerala-rehab.png';
 
 // URL of the JSON data
 const jsonUrl = 'https://raw.githubusercontent.com/keralarehab/keralarehab.github.io/initial_template/incidents/wayanad-landslide-2024/data/promise.json';
@@ -36,7 +36,9 @@ const ensureDirectoryExistence = (filePath) => {
 
 // Function to copy assets from public to dist folder
 const copyDirectory = (src, dest) => {
-    fs.mkdirSync(dest, { recursive: true });
+    fs.mkdirSync(dest, {
+        recursive: true
+    });
     fs.readdirSync(src).forEach((file) => {
         const srcPath = path.join(src, file);
         const destPath = path.join(dest, file);
@@ -51,10 +53,21 @@ const copyDirectory = (src, dest) => {
 // Clear contents of dist folder
 const clearDistFolder = () => {
     if (fs.existsSync('dist')) {
-        fs.rmdirSync('dist', { recursive: true });
+        fs.rmdirSync('dist', {
+            recursive: true
+        });
         console.log('Cleared dist folder');
     }
 };
+
+// Check if the CNAME file exists
+if (!fs.existsSync('dist/CNAME')) {
+    // If it doesn't exist, create the file with the specified content
+    fs.writeFileSync('dist/CNAME', 'keralarehab.in', 'utf8');
+    console.log(`CNAME file created with doamin`);
+} else {
+    console.log('CNAME file already exists.');
+}
 
 // Main build function
 const build = async () => {
@@ -113,7 +126,9 @@ const build = async () => {
         console.log(data);
 
         // Render the offers template with the data
-        ejs.renderFile('views/offers.ejs', { data: processedData }, (err, offersStr) => {
+        ejs.renderFile('views/offers.ejs', {
+            data: processedData
+        }, (err, offersStr) => {
             if (err) {
                 console.error('Error rendering offers EJS:', err);
                 return;
@@ -170,6 +185,12 @@ const build = async () => {
         // Copy assets from public to dist folder
         copyDirectory('public/asset', 'dist/asset');
         console.log('Assets have been copied to dist/asset');
+
+        // Generate CNAME        
+        ensureDirectoryExistence('dist/CNAME');
+        fs.writeFileSync('dist/CNAME', 'keralarehab.in');
+        console.log('CNAME has been created');
+
     } catch (error) {
         console.error('Error fetching JSON data:', error);
     }
@@ -181,7 +202,7 @@ async function fetchDetails(slug) {
         const response = await axios.get(offerUrl);
         const markdown = response.data;
         const htmlString = marked.parse(markdown);
-        
+
         const $ = cheerio.load(htmlString);
 
         let detailsText = '';
