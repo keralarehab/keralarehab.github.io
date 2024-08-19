@@ -8,20 +8,29 @@ on:
 jobs:
   trigger-frontend:
     runs-on: ubuntu-latest
+
     steps:
-    - name: Trigger Frontend Deployment
-      uses: actions/github-script@v6
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
       with:
-        script: |
-          const { Octokit } = require("@octokit/rest");
-          const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
-          
-          const response = await octokit.actions.createWorkflowDispatch({
-            owner: context.repo.owner,
-            repo: context.repo.repo,
-            workflow_id: 'node.js.yml',
-            ref: 'frontend_ssr'
-          });
-          console.log(response);
+        node-version: '16'
+
+    - name: Install Octokit
+      run: npm install @octokit/rest
+
+    - name: Trigger Frontend Deployment
+      run: |
+        node -e "
+        const { Octokit } = require('@octokit/rest');
+        const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
+        
+        octokit.actions.createWorkflowDispatch({
+          owner: process.env.GITHUB_REPOSITORY.split('/')[0],
+          repo: process.env.GITHUB_REPOSITORY.split('/')[1],
+          workflow_id: 'node.js.yml',
+          ref: 'frontend_ssr'
+        }).then(response => console.log(response))
+          .catch(error => console.error('Error:', error));
+        "
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
