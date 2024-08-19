@@ -17,7 +17,7 @@ jobs:
           const workflow_id = 'node.js.yml';
           const ref = 'frontend_ssr';
 
-          const response = await github.actions.createWorkflowDispatch({
+          const response = await github.rest.actions.createWorkflowDispatch({
             owner: context.repo.owner,
             repo: context.repo.repo,
             workflow_id,
