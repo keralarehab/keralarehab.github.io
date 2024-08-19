@@ -1,0 +1,25 @@
+name: Trigger Frontend Deployment
+
+on:
+  push:
+    branches:
+      - initial_template
+
+jobs:
+  trigger-frontend:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Trigger Frontend Deployment
+      uses: actions/github-script@v6
+      with:
+        script: |
+          const octokit = github.getOctokit(process.env.GITHUB_TOKEN);
+          const response = await octokit.actions.createWorkflowDispatch({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            workflow_id: 'node.js.yml', # Replace with your workflow file name in frontend_ssr branch
+            ref: 'frontend_ssr'
+          });
+          console.log(response);
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
