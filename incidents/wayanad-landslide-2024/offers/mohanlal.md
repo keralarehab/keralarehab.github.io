@@ -6,7 +6,7 @@
 
 ## Date of Promise
 
-03-08-2024date
+03-08-2024
 
 ## Details
 
