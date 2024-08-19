@@ -12,9 +12,8 @@ Free electricity for 6 months and waiver of outstanding dues
 
 Consumers living in Wards 10, 11 and 12 of Meppadi panchayat, which include Chooralmala Exchange, Chooralmala Tower, Mundakkai, KK Nair, Ambedkar Colony, Attamala and Attamala Pump transformers, will be supplied free electricity for six months and KSEB will not collect outstanding dues, if any from consumers.
 
-## Progress
+## Media
 
-[View Progress](../progress/kseb.md)
 
 ## References
 

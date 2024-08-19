@@ -32,4 +32,3 @@ Offered 20 Houses
 
 - [facebook](https://www.facebook.com/share/p/rdNPVXGLBnkvC3qJ/?mibextid=oFDknklink)
 - [kerala kaumudi](https://keralakaumudi.com/apps/news-template.php?wid=1355950&pid=CYB&nm=0)
--

@@ -14,9 +14,7 @@
 
 ## Media
 
-![offer](image_url)
 
 ## References
 
 - [facebook](https://www.facebook.com/24onlive/videos/395186607009113/)
-
