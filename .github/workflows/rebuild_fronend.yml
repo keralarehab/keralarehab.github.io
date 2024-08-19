@@ -1,0 +1,30 @@
+name: Trigger Frontend Deployment
+
+on:
+  push:
+    branches:
+      - initial_template
+
+jobs:
+  trigger-frontend:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Trigger Frontend Deployment
+      uses: actions/github-script@v6
+      with:
+        script: |
+          const workflow_id = 'node.js.yml';
+          const ref = 'frontend_ssr';
+
+          const response = await github.rest.actions.createWorkflowDispatch({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            workflow_id,
+            ref,
+          });
+
+          console.log(`Triggered workflow: ${workflow_id} on branch: ${ref}`);
+          console.log(response);
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
