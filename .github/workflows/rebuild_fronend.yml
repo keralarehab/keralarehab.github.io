@@ -17,7 +17,7 @@ jobs:
           const response = await octokit.actions.createWorkflowDispatch({
             owner: context.repo.owner,
             repo: context.repo.repo,
-            workflow_id: 'node.js.yml', # Replace with your workflow file name in frontend_ssr branch
+            workflow_id: 'node.js.yml',
             ref: 'frontend_ssr'
           });
           console.log(response);
