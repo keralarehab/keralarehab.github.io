@@ -10,30 +10,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '16'
-
     - name: Trigger Frontend Deployment
-      run: |
-        node -e "
-        (async () => {
-          const { Octokit } = await import('@octokit/rest');
-          const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
-          
-          try {
-            const response = await octokit.actions.createWorkflowDispatch({
-              owner: process.env.GITHUB_REPOSITORY.split('/')[0],
-              repo: process.env.GITHUB_REPOSITORY.split('/')[1],
-              workflow_id: 'node.js.yml',
-              ref: 'frontend_ssr'
-            });
-            console.log(response);
-          } catch (error) {
-            console.error('Error:', error);
-          }
-        })();
-        "
+      uses: actions/github-script@v6
+      with:
+        script: |
+          const workflow_id = 'node.js.yml';
+          const ref = 'frontend_ssr';
+
+          const response = await github.actions.createWorkflowDispatch({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            workflow_id,
+            ref,
+          });
+
+          console.log(`Triggered workflow: ${workflow_id} on branch: ${ref}`);
+          console.log(response);
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
