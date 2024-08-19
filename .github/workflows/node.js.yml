@@ -8,6 +8,7 @@ on:
     types: [closed]
     branches:
       - frontend_ssr
+      - initial_template
 
 jobs:
   build:
